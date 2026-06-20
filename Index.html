@@ -98,7 +98,7 @@
             .then(response => response.json())
             .then(data => {
                 document.getElementById('update-timestamp').innerText = `MàJ : ${data.last_updated}`;
-                const container = document.getElementById('news-feed' || 'news-container');
+                const container = document.getElementById('news-container');
                 container.innerHTML = '';
 
                 let structuredDataList = [];
@@ -153,4 +153,3 @@
     </script>
 </body>
 </html>
-
