@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr" prefix="og: https://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Trending News | L'actualité Tech & Finance en Temps Réel</title>
+    <meta name="description" content="Découvrez les dernières tendances mondiales en technologie, intelligence artificielle et finance. Suivez l'information stratégique minute par minute.">
+    <meta name="keywords" content="trending news, actualités tech, finance, innovation, intelligence artificielle, tendances">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Trending News | Votre Radar d'Information">
+    <meta property="og:description" content="Technologies émergentes et opportunités financières centralisées sur un seul flux automatisé.">
+    <meta property="og:site_name" content="Trending News">
+
+    <style>
+        :root {
+            --surface-dark: #07090e;
+            --surface-card: #121622;
+            --brand-color: #3b82f6;
+            --text-main: #f1f5f9;
+            --text-muted: #64748b;
+            --line-border: rgba(255, 255, 255, 0.05);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        
+        body { background-color: var(--surface-dark); color: var(--text-main); padding: 15px 10px; line-height: 1.5; }
+        
+        .main-wrapper { max-width: 580px; margin: 0 auto; }
+        
+        header {
+            display: flex; justify-content: space-between; align-items: center;
+            padding-bottom: 15px; border-bottom: 1px solid var(--line-border); margin-bottom: 20px;
+        }
+        
+        header h1 { font-size: 1.4rem; font-weight: 900; letter-spacing: -0.03em; }
+        header h1 span { color: var(--brand-color); }
+        
+        .status-pill { display: flex; align-items: center; gap: 6px; font-size: 0.75rem; background: rgba(59, 130, 246, 0.1); color: #60a5fa; padding: 5px 12px; border-radius: 30px; font-weight: 700; border: 1px solid rgba(59, 130, 246, 0.2); }
+        .live-dot { width: 7px; height: 7px; background-color: #10b981; border-radius: 50%; }
+
+        /* ZONE MONÉTISATION / AFFILIATION PROPRE */
+        .sponsored-box { background: linear-gradient(90deg, #131a2e, #0b0f19); border: 1px solid rgba(59, 130, 246, 0.2); border-radius: 12px; padding: 12px; margin-bottom: 20px; text-align: center; }
+        .sponsored-box p { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; font-weight: 700; margin-bottom: 4px; }
+        .sponsored-box a { color: #fff; font-size: 0.9rem; font-weight: 600; text-decoration: none; color: #93c5fd; }
+        .sponsored-box a:hover { text-decoration: underline; }
+
+        .stream-feed { display: flex; flex-direction: column; gap: 14px; }
+        
+        /* Architecture sémantique carte d'actualité */
+        article.card-news {
+            background: var(--surface-card); border: 1px solid var(--line-border); border-radius: 12px; padding: 16px;
+            transition: transform 0.2s; cursor: pointer;
+        }
+        article.card-news:active { transform: scale(0.99); }
+        
+        .meta-container { display: flex; justify-content: space-between; font-size: 0.75rem; font-weight: 600; margin-bottom: 8px; }
+        .info-source { color: var(--brand-color); }
+        .info-time { color: var(--text-muted); }
+        
+        .card-news h2 { font-size: 1.1rem; color: var(--text-main); font-weight: 700; line-height: 1.35; margin-bottom: 8px; }
+        .card-news h2 a { color: inherit; text-decoration: none; }
+        .info-summary { font-size: 0.88rem; color: #cbd5e1; line-height: 1.45; }
+
+        footer { text-align: center; margin-top: 40px; padding-top: 15px; border-top: 1px solid var(--line-border); font-size: 0.75rem; color: var(--text-muted); }
+    </style>
+</head>
+<body>
+
+    <div class="main-wrapper">
+        <header>
+            <h1>Trending <span>News</span></h1>
+            <div class="status-pill" role="status">
+                <div class="live-dot"></div>
+                <span id="update-timestamp">Synchronisation...</span>
+            </div>
+        </header>
+
+        <section class="sponsored-box" aria-label="Contenu sponsorisé">
+            <p>Annonce Partenaire</p>
+            <a href="#">Formation : Créez vos propres systèmes IA automatisés →</a>
+        </section>
+
+        <main class="stream-feed" id="news-container" role="feed">
+            </main>
+
+        <footer>
+            <p>&copy; 2026 Trending News. Flux d'informations légitimes automatisé.</p>
+        </footer>
+    </div>
+
+    <script>
+        // Lecture dynamique du JSON mis à jour par Python
+        fetch('./data/latest_news.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('update-timestamp').innerText = `MàJ : ${data.last_updated}`;
+                const container = document.getElementById('news-feed' || 'news-container');
+                container.innerHTML = '';
+
+                let structuredDataList = [];
+
+                data.articles.forEach((article, index) => {
+                    // Structure HTML5 sémantique
+                    const articleElement = document.createElement('article');
+                    articleElement.className = 'card-news';
+                    articleElement.setAttribute('role', 'article');
+                    articleElement.onclick = () => window.open(article.url, '_blank');
+
+                    articleElement.innerHTML = `
+                        <div class="meta-container">
+                            <span class="info-source">📰 ${article.source}</span>
+                            <time class="info-time" datetime="${article.date_iso}">⏱️ ${article.date}</time>
+                        </div>
+                        <h2><a href="${article.url}" target="_blank">${article.title}</a></h2>
+                        <p class="info-summary">${article.summary}</p>
+                    `;
+                    container.appendChild(articleElement);
+
+                    // Préparation des métadonnées Schema.org pour Google Bot
+                    structuredDataList.push({
+                        "@type": "NewsArticle",
+                        "position": index + 1,
+                        "headline": article.title,
+                        "datePublished": article.date_iso,
+                        "url": article.url,
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": article.source
+                        }
+                    });
+                });
+
+                // Injection finale des données structurées ItemList dans le Head du document
+                const schemaPayload = {
+                    "@context": "https://schema.org",
+                    "@type": "ItemList",
+                    "itemListElement": structuredDataList
+                };
+                
+                const scriptTag = document.createElement('script');
+                scriptTag.type = 'application/ld+json';
+                scriptTag.text = JSON.stringify(schemaPayload);
+                document.head.appendChild(scriptTag);
+            })
+            .catch(error => {
+                document.getElementById('update-timestamp').innerText = "Erreur de chargement";
+                console.error("Erreur d'analyse du fichier JSON :", error);
+            });
+    </script>
+</body>
+</html>
+
