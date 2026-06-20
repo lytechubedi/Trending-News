@@ -1,0 +1,31 @@
+name: Trending News Automation Pilot
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # S'exécute automatiquement toutes les 6 heures
+  workflow_dispatch: # Permet d'activer le robot manuellement quand tu veux
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Récupération du code source
+      uses: actions/checkout@v3
+
+    - name: Installation de Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Exécution du script collecteur
+      run: python fetch_news.py
+
+    - name: Enregistrement et déploiement des données
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "TrendingNews-Bot"
+        git add data/latest_news.json robots.txt sitemap.xml || true
+        git commit -m "Mise à jour automatique des flux d'actualités" || true
+        git push || true
+
