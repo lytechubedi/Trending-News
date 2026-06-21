@@ -97,7 +97,7 @@
         fetch('./data/latest_news.json')
             .then(response => response.json())
             .then(data => {
-                document.getElementById('update-timestamp').innerText = `MàJ : ${data.last_updated}`;
+                document.getElementById('update-timestamp').innerText = `MÀJ : ${data.last_updated}`;
                 const container = document.getElementById('news-container');
                 container.innerHTML = '';
 
@@ -153,4 +153,3 @@
     </script>
 </body>
 </html>
-
