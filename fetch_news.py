@@ -7,8 +7,8 @@ from datetime import datetime
 
 # ================= CONFIGURATION CONFIGURABLE =================
 # RECOMMANDATION : Remplace "VOTRE_PSEUDO" par ton vrai nom d'utilisateur GitHub
-USER_GITHUB = "LYTECHUB"       
-NOM_DEPOT = "trending-news"     
+USER_GITHUB = "fetch_news.py"       
+NOM_DEPOT = "Trending-News"     
 SITE_URL = f"https://{USER_GITHUB}.github.io/{NOM_DEPOT}/"
 # ==============================================================
 
