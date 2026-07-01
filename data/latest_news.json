@@ -1,14 +1,6 @@
 {
-    "last_updated": "30/06/2026 à 18:22",
+    "last_updated": "01/07/2026 à 11:40",
     "articles": [
-        {
-            "title": "Aviron veut réinventer le back-office grâce à l’IA",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVJsYThtZGdETTR5M1Zvd2tseTFHekVYYk1LZDJhVTBBU09oVEhMZ2FmcHNRT2xzNWdsVEkwMjlubzV3OHpIeFMxTFVTMHI3My1WbGNWVGZtUC11VGdtemVpN3JjaWFWS0pDQ2hOV1BRTGxuUFd6ajktVjRZQ2JOUVF0TXV0QzB6VWlBZ2NlT3RMbjVBNjEza1E2Ym95V2ZB?oc=5",
-            "source": "Finance et Investissement",
-            "date": "30/06 à 11:11",
-            "date_iso": "2026-06-30T11:11:31",
-            "summary": "Aviron veut réinventer le back-office grâce à l’IA&nbsp;&nbsp;Finance et Investissement"
-        },
         {
             "title": "Sidetrade remporte le Prix Innovation 2026 The Hackett Group® pour son modèle opérationnel agentique",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3lUU3dNYXlBUHpkaks4c1VKTmp4bVFZdTlwQWRqTHdabGhneU9iek02SFlEa2cwN1RiM3Zjb3B5MlNwT3ZwQXk2UnRoamZ3UmxucXJ6bFVrU0lCLVQzWWVTZERrcjJrQnJDWnpYem1pa1pjcTNpQWxmTllWU3FnM1NWWlJZM0xWWlVHWE94ZVBnVzRQTTd1eXN3?oc=5",
@@ -16,6 +8,14 @@
             "date": "30/06 à 14:43",
             "date_iso": "2026-06-30T14:43:00",
             "summary": "Sidetrade remporte le Prix Innovation 2026 The Hackett Group® pour son modèle opérationnel agentique&nbsp;&nbsp;Yahoo Finance France"
+        },
+        {
+            "title": "Aviron veut réinventer le back-office grâce à l’IA",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVJsYThtZGdETTR5M1Zvd2tseTFHekVYYk1LZDJhVTBBU09oVEhMZ2FmcHNRT2xzNWdsVEkwMjlubzV3OHpIeFMxTFVTMHI3My1WbGNWVGZtUC11VGdtemVpN3JjaWFWS0pDQ2hOV1BRTGxuUFd6ajktVjRZQ2JOUVF0TXV0QzB6VWlBZ2NlT3RMbjVBNjEza1E2Ym95V2ZB?oc=5",
+            "source": "Finance et Investissement",
+            "date": "30/06 à 11:11",
+            "date_iso": "2026-06-30T11:11:31",
+            "summary": "Aviron veut réinventer le back-office grâce à l’IA&nbsp;&nbsp;Finance et Investissement"
         },
         {
             "title": "L’action Blue Owl Technology Finance Corp atteint un plus bas sur 52 semaines à 10,48$",
@@ -42,12 +42,12 @@
             "summary": "IA en finance : le véritable défi n’est plus la technologie&nbsp;&nbsp;conseiller.ca"
         },
         {
-            "title": "Horizon Technology Finance Corp reports results for the quarter ended December 31 - Earnings Summary",
-            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUjhqb1JscERld0JkcnNfQkYwZ2ZJdzQ4bE0zTVpjZzJaOHRBUjNnejdtQ001X2VrRDNEd1RxSmlSQldUTGZvYW90Rl9JS3RmMEl4ZV9MUGNzZDlSY21CekpacHRuQUVJai1TLWE5cHU0cEVUOTJLNUk5eHdnTnZtaV9UXzV2WHNvNXo4N095cmdPQ2stMG1rM0tPWTJWSXpaYUxrd200cld0MkRTbm51VldlUHZERmFVZUFkUTZvZGlzbWlmZmJjTTk3bUN5SHdqc1FoYXI1dExtUnV6SDVrZUpMZnQtc1BkWkRJQVczTjlaN18wT1pvQy1mdw?oc=5",
-            "source": "TradingView",
-            "date": "03/03 à 08:00",
-            "date_iso": "2026-03-03T08:00:00",
-            "summary": "Horizon Technology Finance Corp reports results for the quarter ended December 31 - Earnings Summary&nbsp;&nbsp;TradingView"
+            "title": "\"Énergie, technologie, défense, finance\": Édouard Philippe appelle l'UE à \"concentrer ses moyens\" sur ces secteurs pour bâtir une \"souveraineté intégrale\"",
+            "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPT0l0Tk9FRW5YNnJnS1BjM2hHNFBURng4NTFIOTRtWE1wdWxhRnkwQ1FCV0RVUEdFSnA2ZlNmdTltX3lMWjd1bnkyRkVyLXFIUVIxM3M4YUpBQ0Z3Vi1UbW5pZ1JZX2tVY0JwQ3haWjdfb3Z6TGtYb20zVVdNR1BSZ0V1SWptLURrVERMeFpBa3B3ZnBUMUdoRzFlRkhLMnNsQ0ZOUldncTRzTVpCUHNUYWU4V0M4YlpvNmxXamRqbzA2T09YMHNaYWhUdlFYblBMYml1RmJFb0hwNkkwWEtPX0J0U202QXluWkJPTjJ0VDdNdlNMTUZiS0pOc0w0T0ZqQ0dnbjdIMmFHbG8wcmhFTTc0MjN0Wnc3eEp6d2lEek00dw?oc=5",
+            "source": "BFM",
+            "date": "18/06 à 07:00",
+            "date_iso": "2026-06-18T07:00:00",
+            "summary": "\"Énergie, technologie, défense, finance\": Édouard Philippe appelle l'UE à \"concentrer ses moyens\" sur ces secteurs pour bâtir une \"souveraineté intégrale\"&nbsp;&nbsp;BFM"
         },
         {
             "title": "Taille du marché des technologies financières décentralisées | Rapport [2034]",
@@ -56,22 +56,6 @@
             "date": "08/06 à 07:00",
             "date_iso": "2026-06-08T07:00:00",
             "summary": "Taille du marché des technologies financières décentralisées | Rapport [2034]&nbsp;&nbsp;Fortune Business Insights"
-        },
-        {
-            "title": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTBOSE5ER1dFYjhxSk9jNk4xb2J5VDBsR1VTWEQ0czZXcXRtR2I2ZjdnaUx2dVN0NEhScXBKVUVTdy1TMXBRYjB0RmZYV1ZLRzJ6UXl4UC1KZHNTcEtqM2FKcktFRkFxZzB5b0ZRbmtmX2huYm5RZDN4VDl5alRaRmZJdWJUN09xcGNUUVRtbmFZcTV6ZTN2OUU1dEQxQzlJMTFCa01CSDBxYlBRcXVxR3Y1MVpxVWlqQUdGR1E5STdfMnJUUFFYNjFBdVpGQmlQTWc?oc=5",
-            "source": "Polytechnique Insights",
-            "date": "31/03 à 08:41",
-            "date_iso": "2026-03-31T08:41:09",
-            "summary": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent&nbsp;&nbsp;Polytechnique Insights"
-        },
-        {
-            "title": "Arrêtez de financer la technologie, commencez à financer la performance",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmtnSmhtV3U0V1pkSjBxWkxfTjIwRGhFb0ZkUDQySGtLVjJPWU11U0pjNmZtYXRvaXhzSjBpMlQ5X2pEQnl4UkJOMkx5UmRMSkMzSzY5eHIwb3A2T0Q3c3NUQ2JiVVZ2a1JfSFMxREVzcGh4dU51QkJoTzhUcHJWaHNCZ3VOY3RYclFNZTloQWlXQ2R1cGNabVZ6NC1qbURRWm1PNXJUMGlQSUNRUml3aFFtcVNfZUpqM1BRM25zd21sZw?oc=5",
-            "source": "CIO-online",
-            "date": "10/04 à 07:00",
-            "date_iso": "2026-04-10T07:00:00",
-            "summary": "Arrêtez de financer la technologie, commencez à financer la performance&nbsp;&nbsp;CIO-online"
         },
         {
             "title": "Un dirigeant d’Horizon Technology Finance achète pour 49.910$ d’actions",
@@ -90,6 +74,38 @@
             "summary": "La technologie n’est plus un avantage concurrentiel dans la finance&nbsp;&nbsp;Paperjam"
         },
         {
+            "title": "Global X lance un FNB de technologies spatiales",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWm9GNDBKYXFsNFRGTEx5aXVkVlpHVnhDRWdCeE91dFlLVHpGNTREY1E0OXlSRFVrYlpXTVhCekc4RWYwcWhyRXNkQnlrcm92cmVoaHFWTTBJb3RPYzR1NTM4YUVOVnRfeG91enBfNUFoaXlKalVadlliRlFrbHpSMG9aTDZETGROOVhxM3NXYXJxano3bTR2WlZubkcxdw?oc=5",
+            "source": "Finance et Investissement",
+            "date": "09/06 à 07:00",
+            "date_iso": "2026-06-09T07:00:00",
+            "summary": "Global X lance un FNB de technologies spatiales&nbsp;&nbsp;Finance et Investissement"
+        },
+        {
+            "title": "Horizon Technology Finance Corp reports results for the quarter ended December 31 - Earnings Summary",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUjhqb1JscERld0JkcnNfQkYwZ2ZJdzQ4bE0zTVpjZzJaOHRBUjNnejdtQ001X2VrRDNEd1RxSmlSQldUTGZvYW90Rl9JS3RmMEl4ZV9MUGNzZDlSY21CekpacHRuQUVJai1TLWE5cHU0cEVUOTJLNUk5eHdnTnZtaV9UXzV2WHNvNXo4N095cmdPQ2stMG1rM0tPWTJWSXpaYUxrd200cld0MkRTbm51VldlUHZERmFVZUFkUTZvZGlzbWlmZmJjTTk3bUN5SHdqc1FoYXI1dExtUnV6SDVrZUpMZnQtc1BkWkRJQVczTjlaN18wT1pvQy1mdw?oc=5",
+            "source": "TradingView",
+            "date": "03/03 à 08:00",
+            "date_iso": "2026-03-03T08:00:00",
+            "summary": "Horizon Technology Finance Corp reports results for the quarter ended December 31 - Earnings Summary&nbsp;&nbsp;TradingView"
+        },
+        {
+            "title": "Arrêtez de financer la technologie, commencez à financer la performance",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmtnSmhtV3U0V1pkSjBxWkxfTjIwRGhFb0ZkUDQySGtLVjJPWU11U0pjNmZtYXRvaXhzSjBpMlQ5X2pEQnl4UkJOMkx5UmRMSkMzSzY5eHIwb3A2T0Q3c3NUQ2JiVVZ2a1JfSFMxREVzcGh4dU51QkJoTzhUcHJWaHNCZ3VOY3RYclFNZTloQWlXQ2R1cGNabVZ6NC1qbURRWm1PNXJUMGlQSUNRUml3aFFtcVNfZUpqM1BRM25zd21sZw?oc=5",
+            "source": "CIO-online",
+            "date": "10/04 à 07:00",
+            "date_iso": "2026-04-10T07:00:00",
+            "summary": "Arrêtez de financer la technologie, commencez à financer la performance&nbsp;&nbsp;CIO-online"
+        },
+        {
+            "title": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTBOSE5ER1dFYjhxSk9jNk4xb2J5VDBsR1VTWEQ0czZXcXRtR2I2ZjdnaUx2dVN0NEhScXBKVUVTdy1TMXBRYjB0RmZYV1ZLRzJ6UXl4UC1KZHNTcEtqM2FKcktFRkFxZzB5b0ZRbmtmX2huYm5RZDN4VDl5alRaRmZJdWJUN09xcGNUUVRtbmFZcTV6ZTN2OUU1dEQxQzlJMTFCa01CSDBxYlBRcXVxR3Y1MVpxVWlqQUdGR1E5STdfMnJUUFFYNjFBdVpGQmlQTWc?oc=5",
+            "source": "Polytechnique Insights",
+            "date": "31/03 à 08:41",
+            "date_iso": "2026-03-31T08:41:09",
+            "summary": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent&nbsp;&nbsp;Polytechnique Insights"
+        },
+        {
             "title": "CarbonFarm Technology, ou comment financer la décarbonation des rizicultures via le marché carbone",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXpFV0p3SlJBS3lfZTZZQW9yUGdQdEJvVXdCR243N2Faa3lGSFJ0VlhJMllTU3hXaHotNDI4Q3hCcGlYSEs4bW1vQjJ0cGVILThDSzkyRVMzMzZmWFZkMjQxZW1fbXBXV0xBUHYzeWdidGRzdDdxZFhzMEtkWGh2amxseEM2WGF5RFdFN0d2MGpFZ19tRUp2MVY0eEx5NHpiZFFWVTZNOFl5OXhza2thajJDeWN6YmFvMFUwa0lORm5iVzJFWWFlY3NVblpKaDgyRkI3Yk9LSG5uTXBScFJnWnd2ZVA?oc=5",
             "source": "Challenges",
@@ -98,28 +114,12 @@
             "summary": "CarbonFarm Technology, ou comment financer la décarbonation des rizicultures via le marché carbone&nbsp;&nbsp;Challenges"
         },
         {
-            "title": "A Wall Street, l'hémorragie de la tech s'accélère",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3QzWmw3STNNb2IzSXFpTUFHRGRwbEYxTVZkb1RFellucjJyMm9XMTNXM3kwZ2J3U0w0TjdPU3duVk1QODhlODRVdENNT3ZBMXZwRGxfRll3b2FCQUZHeWxDUUgyYWxCR282VGJiM3hyQkQ4WGRhTWthSmFRTzkwVXJPdlphU3FPZ21YOTNqU25YTnZkWDdFUUJkT0FuSngzVkZ4WVVuR1dkVGFvTGdLLVVaTQ?oc=5",
-            "source": "Les Echos",
-            "date": "05/02 à 08:00",
-            "date_iso": "2026-02-05T08:00:00",
-            "summary": "A Wall Street, l'hémorragie de la tech s'accélère&nbsp;&nbsp;Les Echos"
-        },
-        {
-            "title": "Lancement de la Chaire de recherche du Canada en finance et technologie",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlhkd3E1YlBYUWJESVJuUWxFZ29nUDJBOUFRSWoxRGtjQ0oyY0l5STFKTXNEb0VYX3IwbVVOYTRSZjV4Y3BacWsxNDVRdmQ5TTNKM1NMWXVNamJqNExHaktqd1lfV1l2bTA2MURUUGNSZ3JhRnZXOUlhdllYbzFSLS1KbTY2WUItZ295em5CbDJpbGVZYm1BQlY3d255VTh4aTlaREFEUFA?oc=5",
-            "source": "HEC Montréal",
-            "date": "02/02 à 08:00",
-            "date_iso": "2026-02-02T08:00:00",
-            "summary": "Lancement de la Chaire de recherche du Canada en finance et technologie&nbsp;&nbsp;HEC Montréal"
-        },
-        {
-            "title": "Global X lance un FNB de technologies spatiales",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWm9GNDBKYXFsNFRGTEx5aXVkVlpHVnhDRWdCeE91dFlLVHpGNTREY1E0OXlSRFVrYlpXTVhCekc4RWYwcWhyRXNkQnlrcm92cmVoaHFWTTBJb3RPYzR1NTM4YUVOVnRfeG91enBfNUFoaXlKalVadlliRlFrbHpSMG9aTDZETGROOVhxM3NXYXJxano3bTR2WlZubkcxdw?oc=5",
-            "source": "Finance et Investissement",
-            "date": "09/06 à 07:00",
-            "date_iso": "2026-06-09T07:00:00",
-            "summary": "Global X lance un FNB de technologies spatiales&nbsp;&nbsp;Finance et Investissement"
+            "title": "Tachkent accueille le premier Silk Road Finance & Technology Forum",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWVUS0ZRbWFiOHIyN0VSWnhZR2pMYmJWYTZyY1ZvWkhyMDN5YTRnYjdVcWgtZHZfMmhGVVpDVUNpeGY3TVZVQ3doMHN1MGhwU1NvckdPOEM0SUdrM1B1Z29QSVJBUFZERU5JdDVHai1qY2p1VFJaUmx1TmZzMXh5Y3lMVGpBQXFTdExySEloSk9iOHl6c3hBTzRvSQ?oc=5",
+            "source": "UZA.uz",
+            "date": "13/06 à 07:00",
+            "date_iso": "2026-06-13T07:00:00",
+            "summary": "Tachkent accueille le premier Silk Road Finance & Technology Forum&nbsp;&nbsp;UZA.uz"
         }
     ]
 }
