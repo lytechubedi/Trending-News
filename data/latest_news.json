@@ -1,14 +1,6 @@
 {
-    "last_updated": "21/07/2026 à 18:59",
+    "last_updated": "22/07/2026 à 01:14",
     "articles": [
-        {
-            "title": "L’action Blue Owl Technology Finance Corp touche un plus bas de 52 semaines à 10,07$",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemV6R2sycFFLSk9YVkFKa0NHTGlGVk5xTHpJMzdrUTZ6OEVrX2RocnQ1TXluZjVsWUdlVXdaSmdkUlRaNzJFVktnTDU4bHpBa0plSkY4SU1ON2lLb2loWVU5X0RjYzJ4OTE2X25IYVF2NGNOVDRkdkxwRVZ3YkNoOWg1V1MwZEZJaTRsUlJvcTJ3NUY3LV9XUlZUd3RBejY2d184R3pfMGQ3RFlZT0FBQVhpTTJBNTN6Y1h0d2YwQzFLS3hNX1pZeVQ2RTcwU2EtVUgw?oc=5",
-            "source": "Investing.com France",
-            "date": "17/07 à 18:45",
-            "date_iso": "2026-07-17T18:45:00",
-            "summary": "L’action Blue Owl Technology Finance Corp touche un plus bas de 52 semaines à 10,07$&nbsp;&nbsp;Investing.com France"
-        },
         {
             "title": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzI2RXBubmxYelA5eEkxZmdlWjhES3F3bmtYRkpaX044TzRFTTRaYU1tOTlCS2ZVM2FHUmctNWR0ZEhHQzQyT2t1aElaeVNfSEZybWJCWThkOWoxSmJiN2hHOHlNRXoyeUJVem1XSS0zc01xNU8tSm5ZeWNPY3V6ZmxkY1A2UjRNMmg4S25DT1A4VHlkbFRmNy0wR2F2UG1KTXQyM3hjS1N6WUN3Ym04SkVNTnFZdElqOUgydzJkdjc?oc=5",
@@ -32,6 +24,14 @@
             "date": "19/07 à 14:01",
             "date_iso": "2026-07-19T14:01:00",
             "summary": "La tokenisation des actifs réels doit concilier innovation et maîtrise des risques&nbsp;&nbsp;lecourrier.vn"
+        },
+        {
+            "title": "Bersay agrandit son département technologie",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVQxR1pDQkE3ZkpXRHo5c01BVEJwWUVKUzViMGt1X3B5aV9pRXhKZzdGTXBkRS00TjdkcUl6dVVYZzA1UGRzMVk4SjBYc1pfOFdWNlBvUDNqNFVWZ0RsU1VTbzFZZWJIUzExTmFpN2M2TmxFMFByTF80MUdZYWk2aXYxX3c0TmVUOWdyRjZyRklReG9OOUpJT20tdV9aUTVTUmFF?oc=5",
+            "source": "Les Echos",
+            "date": "09/07 à 15:31",
+            "date_iso": "2026-07-09T15:31:59",
+            "summary": "Bersay agrandit son département technologie&nbsp;&nbsp;Les Echos"
         },
         {
             "title": "Global X lance un FNB de technologies spatiales",
@@ -98,14 +98,6 @@
             "summary": "CarbonFarm Technology, ou comment financer la décarbonation des rizicultures via le marché carbone&nbsp;&nbsp;Challenges"
         },
         {
-            "title": "A Wall Street, l'hémorragie de la tech s'accélère",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3QzWmw3STNNb2IzSXFpTUFHRGRwbEYxTVZkb1RFellucjJyMm9XMTNXM3kwZ2J3U0w0TjdPU3duVk1QODhlODRVdENNT3ZBMXZwRGxfRll3b2FCQUZHeWxDUUgyYWxCR282VGJiM3hyQkQ4WGRhTWthSmFRTzkwVXJPdlphU3FPZ21YOTNqU25YTnZkWDdFUUJkT0FuSngzVkZ4WVVuR1dkVGFvTGdLLVVaTQ?oc=5",
-            "source": "Les Echos",
-            "date": "05/02 à 08:00",
-            "date_iso": "2026-02-05T08:00:00",
-            "summary": "A Wall Street, l'hémorragie de la tech s'accélère&nbsp;&nbsp;Les Echos"
-        },
-        {
             "title": "Lancement de la Chaire de recherche du Canada en finance et technologie",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlhkd3E1YlBYUWJESVJuUWxFZ29nUDJBOUFRSWoxRGtjQ0oyY0l5STFKTXNEb0VYX3IwbVVOYTRSZjV4Y3BacWsxNDVRdmQ5TTNKM1NMWXVNamJqNExHaktqd1lfV1l2bTA2MURUUGNSZ3JhRnZXOUlhdllYbzFSLS1KbTY2WUItZ295em5CbDJpbGVZYm1BQlY3d255VTh4aTlaREFEUFA?oc=5",
             "source": "HEC Montréal",
@@ -120,6 +112,14 @@
             "date": "23/01 à 08:00",
             "date_iso": "2026-01-23T08:00:00",
             "summary": "Sanctions : quand la technologie devient indispensable à la gestion du risque&nbsp;&nbsp;Finance et Investissement"
+        },
+        {
+            "title": "Marvell Technology : tous les feux passent au vert",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFJwSFh0Q29pUDlCU1F6RVZnemt0QzNYajhHdGQ3OVlkRENPVDdLRWZIa3RSamdpME9OQXd3Z19HT2JpS3VwLTZ0UXU0R0xIZVRPYUpEb0lEejlqb1ltaG5lQW5TbnA2Y09xWkNvZmFibUF2ZkVVT1ZhczZHcDFwVFRGUUg3YTlGa2h6cU5rZkN1eTY3WjA1MUxSX0NJbVNqdEpEQVo0dndIRENYSFNTajV0WW1SUW9NYXRZaTYzMA?oc=5",
+            "source": "Option Finance",
+            "date": "03/06 à 07:00",
+            "date_iso": "2026-06-03T07:00:00",
+            "summary": "Marvell Technology : tous les feux passent au vert&nbsp;&nbsp;Option Finance"
         }
     ]
 }
