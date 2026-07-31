@@ -1,13 +1,21 @@
 {
-    "last_updated": "31/07/2026 à 08:25",
+    "last_updated": "31/07/2026 à 13:22",
     "articles": [
+        {
+            "title": "Zhibao Technology accepte un placement privé de 154,7 M$ financé en bitcoin",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWw0NUV5Q3N2SVV3eFM4NmViYlU4M3U3cFAxMUs5RFBNUlFXVEcxUS04WXhzRXMxazBRemhzWDJiM0dCdE4wdnk5eHVxOGxqaDU2eWF3Tzk2WFRsendfU3YtejdUaGQwZm45R3NtRmk2d2w2UXF3TmRic1ItT1JkQWU1dXdlQnViZmE4ZjNhX2RJblE3eVVQeGdJazkxbnZoMUJUR0lUNl9RMGVBUjRZb2V5Q2lLTVVNeUpiSlFQak4yZTNBbG9vdw?oc=5",
+            "source": "Investing.com France",
+            "date": "31/07 à 12:37",
+            "date_iso": "2026-07-31T12:37:00",
+            "summary": "Zhibao Technology accepte un placement privé de 154,7 M$ financé en bitcoin&nbsp;&nbsp;Investing.com France"
+        },
         {
             "title": "Dix ans d'accompagnement de l'écosystème de l'innovation financière",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVQzQXRMZHZwSGloSjBFb2x0NDVsOUNWNFNuZnZ3cEV0bnRRdTdxRVJVeGxQZE42SW1OSEtwT28ya0dVcFI5MFhCb1VEN0d4RndaaV9RRENOLVcxLVI5X0JEMTE0MGcxLVAwWmVDcEJFSURIbTFFX2FwckE2ZEEtdU16SnU1Q2RlNWk0ZlhhUzdPUXVrR3RoWi1SbXZ6U2hPU0RzVml0MDhlSUhK?oc=5",
-            "source": "acpr.banque-france.fr",
+            "source": "Banque de France",
             "date": "29/07 à 10:07",
             "date_iso": "2026-07-29T10:07:33",
-            "summary": "Dix ans d'accompagnement de l'écosystème de l'innovation financière&nbsp;&nbsp;acpr.banque-france.fr"
+            "summary": "Dix ans d'accompagnement de l'écosystème de l'innovation financière&nbsp;&nbsp;Banque de France"
         },
         {
             "title": "Compte de résultat Intellabridge Technology Corp. (KASH.F)",
@@ -18,14 +26,6 @@
             "summary": "Compte de résultat Intellabridge Technology Corp. (KASH.F)&nbsp;&nbsp;Yahoo Finance France"
         },
         {
-            "title": "Finances et technologies : comment suivre la parade?",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXFoQTRrWjA3aEFuM2ladl84Y1lETlpFdG1UQllPWUFCM25MTjNVdVpoMDNSRDNoM1Y0eXZsU29YMHU1YlozeGliMDRaaVozRE9wUWlZTFlCRTVtaTdnOV84eHBFTW5MQWlCR0lTdzkyOFptYUFqeDNxT3BkaVVwb1RsNHg0TEt6UWUwSFdndGQxVzhxUDZj?oc=5",
-            "source": "conseiller.ca",
-            "date": "26/07 à 16:34",
-            "date_iso": "2026-07-26T16:34:29",
-            "summary": "Finances et technologies : comment suivre la parade?&nbsp;&nbsp;conseiller.ca"
-        },
-        {
             "title": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTBOSE5ER1dFYjhxSk9jNk4xb2J5VDBsR1VTWEQ0czZXcXRtR2I2ZjdnaUx2dVN0NEhScXBKVUVTdy1TMXBRYjB0RmZYV1ZLRzJ6UXl4UC1KZHNTcEtqM2FKcktFRkFxZzB5b0ZRbmtmX2huYm5RZDN4VDl5alRaRmZJdWJUN09xcGNUUVRtbmFZcTV6ZTN2OUU1dEQxQzlJMTFCa01CSDBxYlBRcXVxR3Y1MVpxVWlqQUdGR1E5STdfMnJUUFFYNjFBdVpGQmlQTWc?oc=5",
             "source": "Polytechnique Insights",
@@ -34,20 +34,20 @@
             "summary": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent&nbsp;&nbsp;Polytechnique Insights"
         },
         {
+            "title": "Finances et technologies : comment suivre la parade?",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXFoQTRrWjA3aEFuM2ladl84Y1lETlpFdG1UQllPWUFCM25MTjNVdVpoMDNSRDNoM1Y0eXZsU29YMHU1YlozeGliMDRaaVozRE9wUWlZTFlCRTVtaTdnOV84eHBFTW5MQWlCR0lTdzkyOFptYUFqeDNxT3BkaVVwb1RsNHg0TEt6UWUwSFdndGQxVzhxUDZj?oc=5",
+            "source": "conseiller.ca",
+            "date": "26/07 à 16:34",
+            "date_iso": "2026-07-26T16:34:29",
+            "summary": "Finances et technologies : comment suivre la parade?&nbsp;&nbsp;conseiller.ca"
+        },
+        {
             "title": "Sanctions : quand la technologie devient indispensable à la gestion du risque",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUxqT3kwMlY1VlJIbktsVjJsYUt3V3dJT0lDS2pPMXMxNmNGMmZUdWZzcEM5VDVUUmdMQjh5VFIwWUlRLTF1V2g0Z0RQX25KZWRVQlZzRlBEME9lNG5kVERsNGpkSHE5ZElQQ1BZWXZXVXIzR1B6Sk9uYnI3cnFoUVpvNXV6SHRSYWtVMGFBVG5yQnZfTzdmd1dJTXNUdVZoQzB4MG45U3VvQkZrMFVUVEUzRGZ3QQ?oc=5",
             "source": "Finance et Investissement",
             "date": "23/01 à 08:00",
             "date_iso": "2026-01-23T08:00:00",
             "summary": "Sanctions : quand la technologie devient indispensable à la gestion du risque&nbsp;&nbsp;Finance et Investissement"
-        },
-        {
-            "title": "Formation aux connaissances et compétences en gestion financière, en application des investissements, en technologies de l'information et en transformation numérique, financée par le budget de l'État.",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQnM5TW9lRy1PVDJrWlBrTjdjN3pmM3Rwamo5dHQ3SjFIakZabFFlYTFzX3JRZUZMclZRMkFoRXFLR01LdWFpMTlDamx2NU91NThjZXZCbkE3dlVWMy1La013a2dzWjM3dUh4UGdXTm1zQlpjamN0MmUzdHg4dDMtVTFUd1FIZngyamk4QzljbFZ2QndCYTJiLU5vOUgwSmFGakd3d3RMVThqOHl5ZlczWUowOEgxUDc4YkhJSHdfQlpZU1IwTUxVd1ZlY1ZqWXpoWWxDN1VUN0hYdERQWnZQdW43TmE?oc=5",
-            "source": "Vietnam.vn",
-            "date": "30/07 à 11:21",
-            "date_iso": "2026-07-30T11:21:20",
-            "summary": "Formation aux connaissances et compétences en gestion financière, en application des investissements, en technologies de l'information et en transformation numérique, financée par ..."
         },
         {
             "title": "Le secteur de la tech essuie un sérieux coup de semonce sur les marchés",
@@ -108,18 +108,18 @@
         {
             "title": "La technologie n’est plus un avantage concurrentiel dans la finance",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTU9qYXR3VkhreWNQVk85VWdWU2o4dkh1NTJpdUZUV3NGTVRmSmo2ZlVINGt5azZqU0M1dEdINmFnWjRlS2pWRmdUSGZ5Z19zX2h1WUxRXzNlc3UwTzZHbm9JVTBfVkZ5el9FcHd6X25VZm50WldhTFZtNzlQTFFrRlAtbGhiekFCNmxlcnN3dWhhSGFTVVlNYzZR?oc=5",
-            "source": "Paperjam",
+            "source": "paperjam.lu",
             "date": "10/06 à 16:00",
             "date_iso": "2026-06-10T16:00:03",
-            "summary": "La technologie n’est plus un avantage concurrentiel dans la finance&nbsp;&nbsp;Paperjam"
+            "summary": "La technologie n’est plus un avantage concurrentiel dans la finance&nbsp;&nbsp;paperjam.lu"
         },
         {
             "title": "Polytechnique ouvre un Master en IA appliquée à la finance",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWlZVTFtRGlleVZncDJqMWVMcEVRVFBqVUlDVDBxV3hjeDZuUkJUZmQ1ZFRkNFdoV1NfZHB6SUNYUjdadTBHa3Z3cXN2anBHNGtCaVY3dVBVQ19yNG0zR0lkdHBXeWdodHFCd3M3M3ZrSS1JelFIeGMyU0ZXYzUtQ3pZdEQtWnNobFdsS3pOczlrRFB5Tlc2X015LS05Q0d2OXMxRFN1RVhMUXdfaHU5UFViZGlpakhhajlJMtIBwAFBVV95cUxQOExNMzBRaEVCemR5R21XVFBVVFhFNkRibEtZNEZ4VEZmZ081RjJhZDAwTXg1NXAzN1VpTUctWlZzeS1ldThnbV93UWtSeW80aFdaZVpaTmhrbi1mLU00aTA2aXZwdlpicS02dWNfVmMtcF9iUUlCclpmYjlsTXh3RndqMlFjd25tQlRIMXhvYmMtUmd1b2ZvajB6WE11SnNrSHhBS0UxUHdueUkxb1R4d0FIQ0N5TTJsSVM5MzMzcnY?oc=5",
-            "source": "Le Monde Informatique",
+            "source": "lemondeinformatique.fr",
             "date": "30/01 à 08:00",
             "date_iso": "2026-01-30T08:00:00",
-            "summary": "Polytechnique ouvre un Master en IA appliquée à la finance&nbsp;&nbsp;Le Monde Informatique"
+            "summary": "Polytechnique ouvre un Master en IA appliquée à la finance&nbsp;&nbsp;lemondeinformatique.fr"
         }
     ]
 }
