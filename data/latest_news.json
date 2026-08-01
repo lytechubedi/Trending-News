@@ -1,5 +1,5 @@
 {
-    "last_updated": "01/08/2026 à 01:23",
+    "last_updated": "01/08/2026 à 07:55",
     "articles": [
         {
             "title": "Zhibao Technology accepte un placement privé de 154,7 M$ financé en bitcoin",
@@ -8,14 +8,6 @@
             "date": "31/07 à 12:37",
             "date_iso": "2026-07-31T12:37:00",
             "summary": "Zhibao Technology accepte un placement privé de 154,7 M$ financé en bitcoin&nbsp;&nbsp;Investing.com France"
-        },
-        {
-            "title": "Dix ans d'accompagnement de l'écosystème de l'innovation financière",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVQzQXRMZHZwSGloSjBFb2x0NDVsOUNWNFNuZnZ3cEV0bnRRdTdxRVJVeGxQZE42SW1OSEtwT28ya0dVcFI5MFhCb1VEN0d4RndaaV9RRENOLVcxLVI5X0JEMTE0MGcxLVAwWmVDcEJFSURIbTFFX2FwckE2ZEEtdU16SnU1Q2RlNWk0ZlhhUzdPUXVrR3RoWi1SbXZ6U2hPU0RzVml0MDhlSUhK?oc=5",
-            "source": "Banque de France",
-            "date": "29/07 à 10:07",
-            "date_iso": "2026-07-29T10:07:33",
-            "summary": "Dix ans d'accompagnement de l'écosystème de l'innovation financière&nbsp;&nbsp;Banque de France"
         },
         {
             "title": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent",
@@ -84,10 +76,10 @@
         {
             "title": "Micron Technology impressionne, Wall Street applaudit",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3V4NGljaEFDZ0RkU1VJWHY4S0VicUt1RW9VNi11d2ZuRTU0T0dRajM2N2p3LXF4VFpyQno3SmVxbXdDMkl0SlA5TXMwVW5JaEdPS1ktWlpKeHUxSHhTWVZRLVR3SEp5dGNMSlJfb3cydHd1VEgtNTFkNGgtdDJiTHFvdUFXTk5CNFRZdnZCVnlrLUN4ajNBVDR0S1JObHp3dGdPUC1UbmVONW1RZUxSdHFqS2cyYll1b0pNOGhqeV9yNjhT?oc=5",
-            "source": "Option Finance",
+            "source": "optionfinance.fr",
             "date": "25/06 à 07:00",
             "date_iso": "2026-06-25T07:00:00",
-            "summary": "Micron Technology impressionne, Wall Street applaudit&nbsp;&nbsp;Option Finance"
+            "summary": "Micron Technology impressionne, Wall Street applaudit&nbsp;&nbsp;optionfinance.fr"
         },
         {
             "title": "Lancement de la Chaire de recherche du Canada en finance et technologie",
@@ -120,6 +112,14 @@
             "date": "13/01 à 08:00",
             "date_iso": "2026-01-13T08:00:00",
             "summary": "Innovation Fund : candidatures ouvertes jusqu’au 23 avril 2026&nbsp;&nbsp;frenchweb.fr"
+        },
+        {
+            "title": "Regtech : la tech au service de la conformité",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjAtb2N4ZzVLSXpZTFJTY05ac05NbHlsWWZocjVxbDRheTN4LU90ZWh1NjJ3U0lkNjdzamVrVUJGLWVMXzNmOHB4M19XWnkxeC1wZFRteUdIMDg1cGVwODNia2pYWmhvaXN4Z3FFdWg0b2p6ZExwRHp2aDBFTHc0ZUlRUGhvTUFTbkk1RG1nZw?oc=5",
+            "source": "Bpifrance",
+            "date": "03/11 à 08:00",
+            "date_iso": "2025-11-03T08:00:00",
+            "summary": "Regtech : la tech au service de la conformité&nbsp;&nbsp;Bpifrance"
         }
     ]
 }
