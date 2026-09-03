@@ -1,45 +1,37 @@
 {
-    "last_updated": "03/09/2026 à 01:37",
+    "last_updated": "03/09/2026 à 10:10",
     "articles": [
         {
             "title": "IA & finance : vers une automatisation gouvernée",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3g0RVZnZWlmTEVtcXVoTlNGNHFvMzRvalpBd3ZIVTdsVEJQLVVHZ3NNc0VUckNJNEVwaDdoV1EyTV9GcVJDcXUta01zeGlSNEZibEd3UGtqSzU0ejRINTk2ajZBaXVQOWVHQ2ZOc0dHc1ZVLWpJT3d5T2xLUnZCaXdIczY?oc=5",
-            "source": "daf-mag.fr",
+            "source": "Daf-Mag.fr",
             "date": "01/09 à 07:00",
             "date_iso": "2026-09-01T07:00:29",
-            "summary": "IA & finance : vers une automatisation gouvernée&nbsp;&nbsp;daf-mag.fr"
+            "summary": "IA & finance : vers une automatisation gouvernée&nbsp;&nbsp;Daf-Mag.fr"
         },
         {
-            "title": "LEAP 2026 examine l’avenir de la fintech et son rôle dans la croissance de l’économie numérique",
-            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11ZVhkaDRIcXZKZktwME5EUW56RjM3MGVnNE84cDNFSTVxRTNCcWFmZGpzdXRzdFVLNWxETU85RHc3NUlLbndkRXpB?oc=5",
-            "source": "وكالة الأنباء السعودية",
-            "date": "01/09 à 18:59",
-            "date_iso": "2026-09-01T18:59:39",
-            "summary": "LEAP 2026 examine l’avenir de la fintech et son rôle dans la croissance de l’économie numérique&nbsp;&nbsp;وكالة الأنباء السعودية"
-        },
-        {
-            "title": "MADRID : WFS 2026 - La technologie et la finance s'allient au sommet mondial du football",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnRxTS0yZXR3cDA3T1FFemhrS1d2bW82ZDl4WkVBWjdYRG1GbHIxSjl1Tl9CYWpURmhUX2NzQjd1NHVZS0psMloyQmVxeGZKaUF0V3l6VzNsMjNhN0xwSmhIZ0d4d1RKVkxIR3ktbU8xUUN5TU9WODBqT2tEa29UTlBrc2p3UmttU0JES3JmekctNkU0Y2wtU1R0TUJjOHdVNnVlRC1wcGFkaGho?oc=5",
-            "source": "Presse Agence",
-            "date": "23/08 à 04:32",
-            "date_iso": "2026-08-23T04:32:14",
-            "summary": "MADRID : WFS 2026 - La technologie et la finance s'allient au sommet mondial du football&nbsp;&nbsp;Presse Agence"
+            "title": "Les ventes mondiales de technologies devraient atteindre 1 400 milliards de dollars en 2026, même si 56% des consommateurs retardent leurs achats, selon NIQ",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPam5BVlhadTJ0bUZZWWVsMGctaDZTc2t3NlhiRFNDT0FBVnlidkJpWER3MXljZFpVUzV4T0gzdXNiN0R1S0VOUWlZeXNLQmkwX3dpMjBlZi13NFJhZFFfdV95ZEZaekUtcHh5M3RTdTlmWjY0akZCSHV1cVBGeEQ0ckpIOHdFTDNhMmdSekNWTU93Um9manp6RndRd0J0Wms3X1dyWVFwbw?oc=5",
+            "source": "Yahoo Finance France",
+            "date": "02/09 à 14:00",
+            "date_iso": "2026-09-02T14:00:00",
+            "summary": "Les ventes mondiales de technologies devraient atteindre 1 400 milliards de dollars en 2026, même si 56% des consommateurs retardent leurs achats, selon NIQ&nbsp;&nbsp;Yahoo Financ..."
         },
         {
             "title": "La tech s'appuie sur l'AI. La finance protège les marges.",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9odzRMc3NZLWdYVTBzVWpDZm90S0NXQzZSYk9za1dtUFhJbUpKWXRTVkNBLUx1WWF3VHczaEIzTXdvLTVyRndQZzV2b25CbENWbEM0OS1CNER5U09DbHlQZlhYWlFpZUxFT3VvVVRsLUJTdW96cE82UDN3Q3FCQQ?oc=5",
-            "source": "databricks.com",
+            "source": "Databricks",
             "date": "17/07 à 07:00",
             "date_iso": "2026-07-17T07:00:00",
-            "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;databricks.com"
+            "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
         },
         {
-            "title": "Associer les politiques, les technologies et la finance pour promouvoir l'efficacité énergétique dans l'industrie.",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGY0aGlhbF9OWXBRN3B6ZVVvSWZKTTdRR2lhVVZzQkc0b3cwSHBxc3dPY3NVZFNKSGVZQkJ6SllLSlA0YnA5WDk1YnNkc0pIdjluNFU4cUE0T0VVZ0tUa0prTDhSVWxlV0JyaV93NGtnMzM3T0RZVXRwQmNxM2IxWV9Ob3VKZFludXUyTkJlcXA4SWlHMW1TZ2FUUlA0SHgxbmxWOC1jVVdrUlcxTm5CdUxiNmsxbkRFN3c?oc=5",
-            "source": "Vietnam.vn",
-            "date": "28/08 à 03:37",
-            "date_iso": "2026-08-28T03:37:04",
-            "summary": "Associer les politiques, les technologies et la finance pour promouvoir l'efficacité énergétique dans l'industrie.&nbsp;&nbsp;Vietnam.vn"
+            "title": "LEAP 2026 examine l’avenir de la fintech et son rôle dans la croissance de l’économie numérique",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11ZVhkaDRIcXZKZktwME5EUW56RjM3MGVnNE84cDNFSTVxRTNCcWFmZGpzdXRzdFVLNWxETU85RHc3NUlLbndkRXpB?oc=5",
+            "source": "spa.gov.sa",
+            "date": "01/09 à 18:59",
+            "date_iso": "2026-09-01T18:59:39",
+            "summary": "LEAP 2026 examine l’avenir de la fintech et son rôle dans la croissance de l’économie numérique&nbsp;&nbsp;spa.gov.sa"
         },
         {
             "title": "Innovation : quels sont les aides et crédits d'impôt existants ?",
@@ -50,12 +42,28 @@
             "summary": "Innovation : quels sont les aides et crédits d'impôt existants ?&nbsp;&nbsp;economie.gouv.fr"
         },
         {
+            "title": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdm9iUmN1aGdWYkl1NDdSVVU0Tm5XX0pzbWtBTDVGN19RT0FMZ0xTU3hyZDV2Smlyc3YySXpNTHY0ZzFXT0FZdk5zYjhNWlMzT2dZSTVqbmxHUVg1SWo4RzRiYTRVcVB6QmxCdXFXNmhkdnZUd0cxbXRld204VDluZVdoUndBaDBSd09uSGFiVzNSRV9QOUVubDA3NlNXZE1PZzhVZ3RBME9QR1d5R0FxMzg4d2NjYy1BR21kQ1gwR0s4Ylhya0RuR0JQekdQOUc3eHVDRVZwWQ?oc=5",
+            "source": "Finyear",
+            "date": "03/04 à 07:00",
+            "date_iso": "2026-04-03T07:00:00",
+            "summary": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller&nbsp;&nbsp;Finyear"
+        },
+        {
             "title": "Global X lance un FNB de technologies spatiales",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmUxTTFVUS1jRGxFdjMzU2tVZzA2bkFGNGVpQkpQRnZZZzgzSi1yNy02Y1FKN1dzVHRzbUdKbEtXXzdCQTRQVG5MejBDRUtZY3c0Mk02NlZPaGRJTDJvRWFiN28ta0M0Q2hzbkhJZDRQaFVRQko1VDNEdGxJVV9yNXV2OG45VVN2czZpclMtck0?oc=5",
             "source": "Finance et Investissement",
             "date": "09/06 à 07:00",
             "date_iso": "2026-06-09T07:00:00",
             "summary": "Global X lance un FNB de technologies spatiales&nbsp;&nbsp;Finance et Investissement"
+        },
+        {
+            "title": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTBOSE5ER1dFYjhxSk9jNk4xb2J5VDBsR1VTWEQ0czZXcXRtR2I2ZjdnaUx2dVN0NEhScXBKVUVTdy1TMXBRYjB0RmZYV1ZLRzJ6UXl4UC1KZHNTcEtqM2FKcktFRkFxZzB5b0ZRbmtmX2huYm5RZDN4VDl5alRaRmZJdWJUN09xcGNUUVRtbmFZcTV6ZTN2OUU1dEQxQzlJMTFCa01CSDBxYlBRcXVxR3Y1MVpxVWlqQUdGR1E5STdfMnJUUFFYNjFBdVpGQmlQTWc?oc=5",
+            "source": "Polytechnique Insights",
+            "date": "31/03 à 08:41",
+            "date_iso": "2026-03-31T08:41:09",
+            "summary": "Cybersécurité, IA, finance : les applications des technologies quantique se précisent&nbsp;&nbsp;Polytechnique Insights"
         },
         {
             "title": "Mauna Kea Technologies décroche une ligne de financement de 4 M€ avec Vester Finance",
@@ -66,12 +74,12 @@
             "summary": "Mauna Kea Technologies décroche une ligne de financement de 4 M€ avec Vester Finance&nbsp;&nbsp;Idéal Investisseur"
         },
         {
-            "title": "VivaTech 2026 : la souveraineté numérique divise géants tech et finance",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnE2NG55X1BqcGZLbGlWclRvREx6WThfcVp4YjZmLS1EdDdoaExqNHpZOTZtdG5DTzB4X2pHaGppM3ZsNUJ6enNvTTNDcm1IN3lBbEJQMWtHVGJvdFRqUFBJclprQlNvZnNYbVpnbUZBSzF6a3pxczNyRFliWFczSGotbWJQT2taMTBfSFdRLTlPd3VC?oc=5",
-            "source": "Finyear",
-            "date": "19/06 à 07:00",
-            "date_iso": "2026-06-19T07:00:00",
-            "summary": "VivaTech 2026 : la souveraineté numérique divise géants tech et finance&nbsp;&nbsp;Finyear"
+            "title": "Associer les politiques, les technologies et la finance pour promouvoir l'efficacité énergétique dans l'industrie.",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGY0aGlhbF9OWXBRN3B6ZVVvSWZKTTdRR2lhVVZzQkc0b3cwSHBxc3dPY3NVZFNKSGVZQkJ6SllLSlA0YnA5WDk1YnNkc0pIdjluNFU4cUE0T0VVZ0tUa0prTDhSVWxlV0JyaV93NGtnMzM3T0RZVXRwQmNxM2IxWV9Ob3VKZFludXUyTkJlcXA4SWlHMW1TZ2FUUlA0SHgxbmxWOC1jVVdrUlcxTm5CdUxiNmsxbkRFN3c?oc=5",
+            "source": "Vietnam.vn",
+            "date": "28/08 à 03:37",
+            "date_iso": "2026-08-28T03:37:04",
+            "summary": "Associer les politiques, les technologies et la finance pour promouvoir l'efficacité énergétique dans l'industrie.&nbsp;&nbsp;Vietnam.vn"
         },
         {
             "title": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne",
@@ -84,26 +92,10 @@
         {
             "title": "Financement de l’innovation en France : l’État déploie une enveloppe record de 13 milliards d’euros pour faire émerger les futurs champions tricolores",
             "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQeUt0Q29uVG5CX0ZGR1V3b0UycTlBYWdiLTBmSktYblRnblVvR2NYZ2k3NzkyeGVjVWhtZUIyazVYeGp6RlpVTkFhZmlFMU9GcE1vdFdKcFdRZVoyS3l1eVZSeGJRT2FBTnRqRzUxV2x5eUtnd1ZNbHFfZ0FiY2EwTExQcEhrT2Q3WlEzUklhUGY0US1UbHdpdEFHNU9HSWljQTU0Uk5TcTA1UmVBamdNdHZiOEdrWnNlRnU0clNyVnZVMzlQbUR1eXhpb0V2dHZqajNxcE1RQjNwQWZFb2xYZ0N4TmVGUERwRzd1VWJ6YVZZT2l4UDFhb3RmX1NBU25KR2lNSlBTT3ViSkxCNS1pcjZMd2plek1vZm1rRjMwbjd1NzFjX3l0cDI4LWdpMXhfN2pGVS02Y0owLUg0RDZTX05OTmZ2WmtyUlZRdVZCaVZKa3QyNVN1Y1p3djF3OUFX?oc=5",
-            "source": "usine-digitale.fr",
+            "source": "L'Usine Digitale",
             "date": "19/06 à 07:00",
             "date_iso": "2026-06-19T07:00:00",
-            "summary": "Financement de l’innovation en France : l’État déploie une enveloppe record de 13 milliards d’euros pour faire émerger les futurs champions tricolores&nbsp;&nbsp;usine-digitale.fr"
-        },
-        {
-            "title": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzI2RXBubmxYelA5eEkxZmdlWjhES3F3bmtYRkpaX044TzRFTTRaYU1tOTlCS2ZVM2FHUmctNWR0ZEhHQzQyT2t1aElaeVNfSEZybWJCWThkOWoxSmJiN2hHOHlNRXoyeUJVem1XSS0zc01xNU8tSm5ZeWNPY3V6ZmxkY1A2UjRNMmg4S25DT1A4VHlkbFRmNy0wR2F2UG1KTXQyM3hjS1N6WUN3Ym04SkVNTnFZdElqOUgydzJkdjc?oc=5",
-            "source": "L'Agefi",
-            "date": "21/07 à 07:00",
-            "date_iso": "2026-07-21T07:00:00",
-            "summary": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés&nbsp;&nbsp;L'Agefi"
-        },
-        {
-            "title": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXRiMktxbjhuaG9Vb3lDWGlPeFZKT1pnTVlnOXNIZmZ4eGVqUi15OFZKdXg3eEp6Wk9OUTZseF84clB6R3dkX3RVMnJjeUw3dnBwRzE3bm13TFJ1Y09rWGY3ZkZBWU1vRjJOOWNIYV9YODdPMXZ6NmloZ2psSV9HYzdSNkRiZUV6akJac0hBZFd0dEY1TXdRVENrTUJFODZxNTdjV2s0T3c5TkhOVEkxcDBmdXdsaHp2WUhBNUJIUzBsZw?oc=5",
-            "source": "Contexte",
-            "date": "25/06 à 07:00",
-            "date_iso": "2026-06-25T07:00:00",
-            "summary": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech&nbsp;&nbsp;Contexte"
+            "summary": "Financement de l’innovation en France : l’État déploie une enveloppe record de 13 milliards d’euros pour faire émerger les futurs champions tricolores&nbsp;&nbsp;L'Usine Digitale"
         },
         {
             "title": "Marvell Technology : tous les feux passent au vert",
@@ -114,12 +106,20 @@
             "summary": "Marvell Technology : tous les feux passent au vert&nbsp;&nbsp;Option Finance"
         },
         {
-            "title": "\"Énergie, technologie, défense, finance\": Édouard Philippe appelle l'UE à \"concentrer ses moyens\" sur ces secteurs pour bâtir une \"souveraineté intégrale\"",
-            "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPT0l0Tk9FRW5YNnJnS1BjM2hHNFBURng4NTFIOTRtWE1wdWxhRnkwQ1FCV0RVUEdFSnA2ZlNmdTltX3lMWjd1bnkyRkVyLXFIUVIxM3M4YUpBQ0Z3Vi1UbW5pZ1JZX2tVY0JwQ3haWjdfb3Z6TGtYb20zVVdNR1BSZ0V1SWptLURrVERMeFpBa3B3ZnBUMUdoRzFlRkhLMnNsQ0ZOUldncTRzTVpCUHNUYWU4V0M4YlpvNmxXamRqbzA2T09YMHNaYWhUdlFYblBMYml1RmJFb0hwNkkwWEtPX0J0U202QXluWkJPTjJ0VDdNdlNMTUZiS0pOc0w0T0ZqQ0dnbjdIMmFHbG8wcmhFTTc0MjN0Wnc3eEp6d2lEek00dw?oc=5",
-            "source": "BFM",
-            "date": "18/06 à 07:00",
-            "date_iso": "2026-06-18T07:00:00",
-            "summary": "\"Énergie, technologie, défense, finance\": Édouard Philippe appelle l'UE à \"concentrer ses moyens\" sur ces secteurs pour bâtir une \"souveraineté intégrale\"&nbsp;&nbsp;BFM"
+            "title": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXRiMktxbjhuaG9Vb3lDWGlPeFZKT1pnTVlnOXNIZmZ4eGVqUi15OFZKdXg3eEp6Wk9OUTZseF84clB6R3dkX3RVMnJjeUw3dnBwRzE3bm13TFJ1Y09rWGY3ZkZBWU1vRjJOOWNIYV9YODdPMXZ6NmloZ2psSV9HYzdSNkRiZUV6akJac0hBZFd0dEY1TXdRVENrTUJFODZxNTdjV2s0T3c5TkhOVEkxcDBmdXdsaHp2WUhBNUJIUzBsZw?oc=5",
+            "source": "Contexte",
+            "date": "25/06 à 07:00",
+            "date_iso": "2026-06-25T07:00:00",
+            "summary": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech&nbsp;&nbsp;Contexte"
+        },
+        {
+            "title": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzI2RXBubmxYelA5eEkxZmdlWjhES3F3bmtYRkpaX044TzRFTTRaYU1tOTlCS2ZVM2FHUmctNWR0ZEhHQzQyT2t1aElaeVNfSEZybWJCWThkOWoxSmJiN2hHOHlNRXoyeUJVem1XSS0zc01xNU8tSm5ZeWNPY3V6ZmxkY1A2UjRNMmg4S25DT1A4VHlkbFRmNy0wR2F2UG1KTXQyM3hjS1N6WUN3Ym04SkVNTnFZdElqOUgydzJkdjc?oc=5",
+            "source": "L'Agefi",
+            "date": "21/07 à 07:00",
+            "date_iso": "2026-07-21T07:00:00",
+            "summary": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés&nbsp;&nbsp;L'Agefi"
         }
     ]
 }
