@@ -1,6 +1,14 @@
 {
-    "last_updated": "13/09/2026 à 01:33",
+    "last_updated": "13/09/2026 à 10:40",
     "articles": [
+        {
+            "title": "L'IA fait exploser le coût de la dette des États. Christine Lagarde alerte",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa080WUFVcTdrY0htVld2dGJjWmJJVUJrU1Myamppeko2aGxaVHdDa0Fwc3p4Z2h1WlpxRzJpa3padmFjRVVjZ3hhbVUwZnEyMzZkM3VfN0M3V3FOcmNOa2dTLTR3bFF2VXppd3QtcjgzTzRrMFNwVU0tQ0hRWmxTb1BLNXhHNTkwNjd0bUJJeW81Ui1Rb3ZFbV9KVHpMeTUtckwzUVd3OV85TEtxdjIzb21lZm1aTEM3b0dPQ3VSZmFjT0RDZ1BsUTl5WEtrLTJiYU5aVTV4bWhTam8?oc=5",
+            "source": "La Tribune",
+            "date": "13/09 à 09:25",
+            "date_iso": "2026-09-13T09:25:53",
+            "summary": "L'IA fait exploser le coût de la dette des États. Christine Lagarde alerte&nbsp;&nbsp;La Tribune"
+        },
         {
             "title": "Actil renouvelle pour cinq ans son partenariat avec Shift Technology",
             "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEs0Rlc4NjZHZU5ycGs5ZURRUEgyR2ZIcGF2eHJxbkF0WlNCcHc0eHJJOEtmakd1SDNNd1I5WDFHUzFIS3Z1STdIb2FwMkhQZDVoTG9JUHY0RVlwb2VwVXIxYkN3ZUdSb0Q2RGtRSG1GcFo2ZEdPN2RGNGx5eXR3RmE0aUJjbk4zYVlKMzJEODQwdFZ4RXNLOU1BMkExampXQ3dzNVZCY1JrVTkzRzU0YjdfWXFUU1FzNGVPZ1VtYlUxSVVzSzFKZ1FaUGw3V25MMVdIcFVlU01BUQ?oc=5",
@@ -16,14 +24,6 @@
             "date": "08/09 à 11:49",
             "date_iso": "2026-09-08T11:49:29",
             "summary": "Sweet Technologies, une fintech montréalaise qui grandit aux États-Unis&nbsp;&nbsp;Finance et Investissement"
-        },
-        {
-            "title": "La finance verte, un levier essentiel pour une agriculture vietnamienne bas carbone",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3dtcE81WWRYYjU1aWJtckc1ZDkyWVNraTNQWExtYTNaSVV5SWFLS2NmOHd2YmVGbjF6R050akt1TGlqVV82RThnMHF3SDhraUNRQnppREpwQm9JWndpZlVmTDc2S2l2Q3M3SEJFb1NubEZwc0JBWHh4LUlIelhIZEQ1ZXI1M2ZITmtlZnNpS3drODVOTGRua1lNVi1RbWhyc0tMcUtGNUlwY1VrMEJIY3NRRS1XZW1I?oc=5",
-            "source": "lecourrier.vn",
-            "date": "09/09 à 09:52",
-            "date_iso": "2026-09-09T09:52:00",
-            "summary": "La finance verte, un levier essentiel pour une agriculture vietnamienne bas carbone&nbsp;&nbsp;lecourrier.vn"
         },
         {
             "title": "Blue Owl Technology Finance finalise un placement privé de 150 millions $",
@@ -50,20 +50,20 @@
             "summary": "La SSII Expertise Data accueille Finance Technology Fund dans son tour de table&nbsp;&nbsp;Challenge.ma"
         },
         {
-            "title": "De nouveaux mécanismes de financement ouvrent la voie aux technologies stratégiques.",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHVQaU4xZjhRUDhJVHBIekV3WDVjZ19zWEw0SGM1VUp6TGUyVGs3NEpxcmJ2WUlNTEVENFF2UUdnZ2NrU3FSVDBoaHZwMUR6UGM3dVZsWTVWd244R3NRYS15ZVJFMVFCaU5NcHFYN2NNZ3RpTmtGVkZVVzg5bURiTThFZ3JrSW8?oc=5",
-            "source": "Vietnam.vn",
-            "date": "11/09 à 09:43",
-            "date_iso": "2026-09-11T09:43:53",
-            "summary": "De nouveaux mécanismes de financement ouvrent la voie aux technologies stratégiques.&nbsp;&nbsp;Vietnam.vn"
-        },
-        {
             "title": "La tech s'appuie sur l'AI. La finance protège les marges.",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9odzRMc3NZLWdYVTBzVWpDZm90S0NXQzZSYk9za1dtUFhJbUpKWXRTVkNBLUx1WWF3VHczaEIzTXdvLTVyRndQZzV2b25CbENWbEM0OS1CNER5U09DbHlQZlhYWlFpZUxFT3VvVVRsLUJTdW96cE82UDN3Q3FCQQ?oc=5",
             "source": "Databricks",
             "date": "17/07 à 07:00",
             "date_iso": "2026-07-17T07:00:00",
             "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
+        },
+        {
+            "title": "De nouveaux mécanismes de financement ouvrent la voie aux technologies stratégiques.",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHVQaU4xZjhRUDhJVHBIekV3WDVjZ19zWEw0SGM1VUp6TGUyVGs3NEpxcmJ2WUlNTEVENFF2UUdnZ2NrU3FSVDBoaHZwMUR6UGM3dVZsWTVWd244R3NRYS15ZVJFMVFCaU5NcHFYN2NNZ3RpTmtGVkZVVzg5bURiTThFZ3JrSW8?oc=5",
+            "source": "Vietnam.vn",
+            "date": "11/09 à 09:43",
+            "date_iso": "2026-09-11T09:43:53",
+            "summary": "De nouveaux mécanismes de financement ouvrent la voie aux technologies stratégiques.&nbsp;&nbsp;Vietnam.vn"
         },
         {
             "title": "MADRID : WFS 2026 - La technologie et la finance s'allient au sommet mondial du football",
@@ -82,6 +82,14 @@
             "summary": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté&nbsp;&nbsp;tresor.economie.gouv.fr"
         },
         {
+            "title": "L'adoption de l'IA se propage au-delà de la technologie alors que les entreprises de la finance et de la fabrication se précipitent pour rattraper leur retard",
+            "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQOV9hbFNuNXVzeUplRDkxTHI2QXlrRW4ySmJJaGtzRDh4TGxXclZHSUROblNpSk9GTXMxQXVzV3ZQbURLSlI2dlhSU2RVb3RPcFdWZGRGV183dnU0OW1UYXFUZUUxaklTMkVpUWJ4T0pQVUk0NTdCQUVqWkJGaHFMS0g3bzRkOC1aNnUzNE9mbDgzaWpsMUstdWZxUmNhbWFwWWRSLUFFZC1GVElLeC1FQzJINjZiUWVtNWlhMm1FNndqb19PS2kzNnJnSk5iYkNsTWZRd0FjM1FSNy05ZFpKUk9rNkR5SkplMFJwQ28wU0ZFTzRYaDRGOUlOaUtlMzZKTEdQVzE3dmpPdkpwTmJuMklSR1duc21WZlY2RFpB?oc=5",
+            "source": "Benzinga France",
+            "date": "06/09 à 07:05",
+            "date_iso": "2026-09-06T07:05:30",
+            "summary": "L'adoption de l'IA se propage au-delà de la technologie alors que les entreprises de la finance et de la fabrication se précipitent pour rattraper leur retard&nbsp;&nbsp;Benzinga F..."
+        },
+        {
             "title": "Technologie : une nouvelle ère s'ouvre dans la gestion d’actifs",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSG43TjJlYVRJOTBIamhfYm5TVElqc3NTZVBCZEJCYnRkR1BXOEZpTmR5Tlg5SEhOcDU4TmR4Z3NBdHBsd1JIb1JKS1M0TlNZWVhJUnktR3pWNkx6NTA2dy1CdmE4VlpxR1RkQUpfbnQzY3QzX2dGOGZZWnZNeS1BZkY0cUdfQlpkaEV1TklORW43d2RhTElmaTVfVkREWElLaGlHWWlTYlhZcWJITFhFbTdaMUhsQ1hfVFlV?oc=5",
             "source": "Option Finance",
@@ -96,14 +104,6 @@
             "date": "16/07 à 07:00",
             "date_iso": "2026-07-16T07:00:00",
             "summary": "Mauna Kea Technologies décroche une ligne de financement de 4 M€ avec Vester Finance&nbsp;&nbsp;Idéal Investisseur"
-        },
-        {
-            "title": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQndZWnowWEpHRFFQTUVCUHVyR19CenNSNFlEY3l4STlrdVVvYW91a0RPdUVTMDUzemdHZVhaM1NPaWs1ZHBzdENnU0lFYWs1OEJwak5KdkcwVVQ1Y2RxTEZiYlNSY1VXd0RiRXVqcVFiLVV4SkZzSEtNS0w5em1aNGlDc0c3alpubWdISGpTM25MWWFkcGNOTi1lM0h3MkpzdF9xZWZiaGFDMWVSbE9JQzc0eldPWGs2QTFLQUhQOFl5VDF5?oc=5",
-            "source": "Maddyness",
-            "date": "19/06 à 07:00",
-            "date_iso": "2026-06-19T07:00:00",
-            "summary": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne&nbsp;&nbsp;Maddyness"
         },
         {
             "title": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech",
