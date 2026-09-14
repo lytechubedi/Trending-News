@@ -1,21 +1,29 @@
 {
-    "last_updated": "14/09/2026 à 01:51",
+    "last_updated": "14/09/2026 à 11:01",
     "articles": [
+        {
+            "title": "La deeptech se finance désormais selon plusieurs économies du capital",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmNHdUc2SXdIR0Jjc21KQUVNbWttTEIxelRSVGk2Zm5WYmk2MGZlREJjUzNKNGtZeEI3ZGtnTzFvUmtGZU14MEVKOVJ6eTNiZmhwNzhSYmRuMVhWR0h0MTY1ZXpQSGkzMnJQZUJSVHRERXNPVkxULUFPbW4zdXkzS1RYSm9CckFRRkNuVVkyR0ozWGVCZHBocFZRRTlGQVp5eWpz?oc=5",
+            "source": "frenchweb.fr",
+            "date": "14/09 à 04:08",
+            "date_iso": "2026-09-14T04:08:23",
+            "summary": "La deeptech se finance désormais selon plusieurs économies du capital&nbsp;&nbsp;frenchweb.fr"
+        },
+        {
+            "title": "Indra se renforce dans les technologies quantiques de défense, le titre grimpe",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2xSeG1jbkk5YmJRMGViWG9XU2k3V0YyUXJyVTZPWGg2S2tFOUhIWnhvbUc1bF9PZk1ERXRjd1VaYlQ5VnhWSV82RTdxcHgzeFdKanZYdWdWTDZsdnhDMnlacXl1blFyY21VZnVEMEViX0tiZUx3TDk4OXhUZVk1VExmb09EN2xoejQxWTZsWDRzUm54MzVHVFJZYUk1ZENFOUZXQUZxNWJJTWhWSjJCanBZa2oyc2pzbXRHUnpTLXhEVDN0akZ5aDJ4TUFDa3NjNTA4SXgzeUJkamRDeEpiM2tqWVdJdw?oc=5",
+            "source": "optionfinance.fr",
+            "date": "14/09 à 09:40",
+            "date_iso": "2026-09-14T09:40:00",
+            "summary": "Indra se renforce dans les technologies quantiques de défense, le titre grimpe&nbsp;&nbsp;optionfinance.fr"
+        },
         {
             "title": "L'IA fait exploser le coût de la dette des États. Christine Lagarde alerte",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa080WUFVcTdrY0htVld2dGJjWmJJVUJrU1Myamppeko2aGxaVHdDa0Fwc3p4Z2h1WlpxRzJpa3padmFjRVVjZ3hhbVUwZnEyMzZkM3VfN0M3V3FOcmNOa2dTLTR3bFF2VXppd3QtcjgzTzRrMFNwVU0tQ0hRWmxTb1BLNXhHNTkwNjd0bUJJeW81Ui1Rb3ZFbV9KVHpMeTUtckwzUVd3OV85TEtxdjIzb21lZm1aTEM3b0dPQ3VSZmFjT0RDZ1BsUTl5WEtrLTJiYU5aVTV4bWhTam8?oc=5",
-            "source": "La Tribune",
+            "source": "latribune.fr",
             "date": "13/09 à 09:25",
             "date_iso": "2026-09-13T09:25:53",
-            "summary": "L'IA fait exploser le coût de la dette des États. Christine Lagarde alerte&nbsp;&nbsp;La Tribune"
-        },
-        {
-            "title": "Actil renouvelle pour cinq ans son partenariat avec Shift Technology",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEs0Rlc4NjZHZU5ycGs5ZURRUEgyR2ZIcGF2eHJxbkF0WlNCcHc0eHJJOEtmakd1SDNNd1I5WDFHUzFIS3Z1STdIb2FwMkhQZDVoTG9JUHY0RVlwb2VwVXIxYkN3ZUdSb0Q2RGtRSG1GcFo2ZEdPN2RGNGx5eXR3RmE0aUJjbk4zYVlKMzJEODQwdFZ4RXNLOU1BMkExampXQ3dzNVZCY1JrVTkzRzU0YjdfWXFUU1FzNGVPZ1VtYlUxSVVzSzFKZ1FaUGw3V25MMVdIcFVlU01BUQ?oc=5",
-            "source": "Option Finance",
-            "date": "10/09 à 09:37",
-            "date_iso": "2026-09-10T09:37:00",
-            "summary": "Actil renouvelle pour cinq ans son partenariat avec Shift Technology&nbsp;&nbsp;Option Finance"
+            "summary": "L'IA fait exploser le coût de la dette des États. Christine Lagarde alerte&nbsp;&nbsp;latribune.fr"
         },
         {
             "title": "Blue Owl Technology Finance finalise un placement privé de 150 millions $",
@@ -34,20 +42,20 @@
             "summary": "Sweet Technologies, une fintech montréalaise qui grandit aux États-Unis&nbsp;&nbsp;Finance et Investissement"
         },
         {
+            "title": "Actil renouvelle pour cinq ans son partenariat avec Shift Technology",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEs0Rlc4NjZHZU5ycGs5ZURRUEgyR2ZIcGF2eHJxbkF0WlNCcHc0eHJJOEtmakd1SDNNd1I5WDFHUzFIS3Z1STdIb2FwMkhQZDVoTG9JUHY0RVlwb2VwVXIxYkN3ZUdSb0Q2RGtRSG1GcFo2ZEdPN2RGNGx5eXR3RmE0aUJjbk4zYVlKMzJEODQwdFZ4RXNLOU1BMkExampXQ3dzNVZCY1JrVTkzRzU0YjdfWXFUU1FzNGVPZ1VtYlUxSVVzSzFKZ1FaUGw3V25MMVdIcFVlU01BUQ?oc=5",
+            "source": "optionfinance.fr",
+            "date": "10/09 à 09:37",
+            "date_iso": "2026-09-10T09:37:00",
+            "summary": "Actil renouvelle pour cinq ans son partenariat avec Shift Technology&nbsp;&nbsp;optionfinance.fr"
+        },
+        {
             "title": "D’où viendra la prochaine crise ? [Épisode 4] L’intelligence artificielle et les nouvelles technologies",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1JrNkRQVHZIbzU4Si1xV3hNU1lDNk9xWF9iWERRT0hsNHJiczRvSzFZMnVVejBSZjV0NEFtZXRfU2VYSjFBUlpaVTN3V01UbVhBTjdzYkJGVFVwdWtjcmY2NG1vQWdsV0U5Y0dUQlRtRWJnV1J4OHNqMjNHMFdrMnBJbi16LTNib29vSWNxbEw3aVZsWUUzdlFNQkJYM1M5RWdoNHV6Q1V1eVRjVzgxS0c0MTNSMWkxR2VXWElXanFFQ2ZfWXNFOGJmb0RXbVdsMEhpVmhIQkhRZ2c?oc=5",
             "source": "La finance pour tous",
             "date": "19/08 à 07:00",
             "date_iso": "2026-08-19T07:00:00",
             "summary": "D’où viendra la prochaine crise ? [Épisode 4] L’intelligence artificielle et les nouvelles technologies&nbsp;&nbsp;La finance pour tous"
-        },
-        {
-            "title": "La SSII Expertise Data accueille Finance Technology Fund dans son tour de table",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNU1EQk9NM0E1eUhrNml0R3psaEhnZy1LVnJmeFZvbG1rOFZPem9MUlNXU3NjY3V2UHM4RUFibk9xMHRsRmtHWGc2U3dJUlJHYjlKd3plRW9mRDRLclNNUlREM1FuZ29lVTFQeGNISmw0WnJtMnR6T1RVeERLSUtXT1BRcVFEbTNUeXRGNWVzSWdweGpDbDlaMlpjQWpQSnVUTS1WaGZZa3FtcTRRNmJUWU93?oc=5",
-            "source": "Challenge.ma",
-            "date": "10/09 à 13:00",
-            "date_iso": "2026-09-10T13:00:00",
-            "summary": "La SSII Expertise Data accueille Finance Technology Fund dans son tour de table&nbsp;&nbsp;Challenge.ma"
         },
         {
             "title": "La tech s'appuie sur l'AI. La finance protège les marges.",
@@ -58,20 +66,12 @@
             "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
         },
         {
-            "title": "De nouveaux mécanismes de financement ouvrent la voie aux technologies stratégiques.",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHVQaU4xZjhRUDhJVHBIekV3WDVjZ19zWEw0SGM1VUp6TGUyVGs3NEpxcmJ2WUlNTEVENFF2UUdnZ2NrU3FSVDBoaHZwMUR6UGM3dVZsWTVWd244R3NRYS15ZVJFMVFCaU5NcHFYN2NNZ3RpTmtGVkZVVzg5bURiTThFZ3JrSW8?oc=5",
-            "source": "Vietnam.vn",
-            "date": "11/09 à 09:43",
-            "date_iso": "2026-09-11T09:43:53",
-            "summary": "De nouveaux mécanismes de financement ouvrent la voie aux technologies stratégiques.&nbsp;&nbsp;Vietnam.vn"
-        },
-        {
             "title": "MADRID : WFS 2026 - La technologie et la finance s'allient au sommet mondial du football",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnRxTS0yZXR3cDA3T1FFemhrS1d2bW82ZDl4WkVBWjdYRG1GbHIxSjl1Tl9CYWpURmhUX2NzQjd1NHVZS0psMloyQmVxeGZKaUF0V3l6VzNsMjNhN0xwSmhIZ0d4d1RKVkxIR3ktbU8xUUN5TU9WODBqT2tEa29UTlBrc2p3UmttU0JES3JmekctNkU0Y2wtU1R0TUJjOHdVNnVlRC1wcGFkaGho?oc=5",
-            "source": "presseagence.fr",
+            "source": "Presse Agence",
             "date": "23/08 à 04:32",
             "date_iso": "2026-08-23T04:32:14",
-            "summary": "MADRID : WFS 2026 - La technologie et la finance s'allient au sommet mondial du football&nbsp;&nbsp;presseagence.fr"
+            "summary": "MADRID : WFS 2026 - La technologie et la finance s'allient au sommet mondial du football&nbsp;&nbsp;Presse Agence"
         },
         {
             "title": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté",
@@ -90,14 +90,6 @@
             "summary": "L'adoption de l'IA se propage au-delà de la technologie alors que les entreprises de la finance et de la fabrication se précipitent pour rattraper leur retard&nbsp;&nbsp;Benzinga F..."
         },
         {
-            "title": "Technologie : une nouvelle ère s'ouvre dans la gestion d’actifs",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSG43TjJlYVRJOTBIamhfYm5TVElqc3NTZVBCZEJCYnRkR1BXOEZpTmR5Tlg5SEhOcDU4TmR4Z3NBdHBsd1JIb1JKS1M0TlNZWVhJUnktR3pWNkx6NTA2dy1CdmE4VlpxR1RkQUpfbnQzY3QzX2dGOGZZWnZNeS1BZkY0cUdfQlpkaEV1TklORW43d2RhTElmaTVfVkREWElLaGlHWWlTYlhZcWJITFhFbTdaMUhsQ1hfVFlV?oc=5",
-            "source": "Option Finance",
-            "date": "02/09 à 10:27",
-            "date_iso": "2026-09-02T10:27:00",
-            "summary": "Technologie : une nouvelle ère s'ouvre dans la gestion d’actifs&nbsp;&nbsp;Option Finance"
-        },
-        {
             "title": "Mauna Kea Technologies décroche une ligne de financement de 4 M€ avec Vester Finance",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZzJUNVgxUEVCWk92eS1xdGhqdVJxUzNDMFdULTB0RnlVYktPYjlUNExKWlFmZVV3MXBFN3A3Qzh0NkFvU0dGVjhDZVVwNGNUeDZzVnNuM2NUTXJtRnI0SkUxUkxpbVJTMnlZdWZwbi1vMms5TU0zSmVDYVNTSWJkTmVFN1hIY25ickJKUmJyUzNReS12N3pqM2N1UWVpRkRxaEZPNllKS1V0akZyMzNSbThvSFdKM2ZGeC1lOG1uT1pwSGRUV2VoVEpRRFZwX3FLUFV4NA?oc=5",
             "source": "Idéal Investisseur",
@@ -108,10 +100,18 @@
         {
             "title": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXRiMktxbjhuaG9Vb3lDWGlPeFZKT1pnTVlnOXNIZmZ4eGVqUi15OFZKdXg3eEp6Wk9OUTZseF84clB6R3dkX3RVMnJjeUw3dnBwRzE3bm13TFJ1Y09rWGY3ZkZBWU1vRjJOOWNIYV9YODdPMXZ6NmloZ2psSV9HYzdSNkRiZUV6akJac0hBZFd0dEY1TXdRVENrTUJFODZxNTdjV2s0T3c5TkhOVEkxcDBmdXdsaHp2WUhBNUJIUzBsZw?oc=5",
-            "source": "Contexte",
+            "source": "contexte.com",
             "date": "25/06 à 07:00",
             "date_iso": "2026-06-25T07:00:00",
-            "summary": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech&nbsp;&nbsp;Contexte"
+            "summary": "Enquête - La France veut profiter du réarmement pour larguer des milliards sur la tech&nbsp;&nbsp;contexte.com"
+        },
+        {
+            "title": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdm9iUmN1aGdWYkl1NDdSVVU0Tm5XX0pzbWtBTDVGN19RT0FMZ0xTU3hyZDV2Smlyc3YySXpNTHY0ZzFXT0FZdk5zYjhNWlMzT2dZSTVqbmxHUVg1SWo4RzRiYTRVcVB6QmxCdXFXNmhkdnZUd0cxbXRld204VDluZVdoUndBaDBSd09uSGFiVzNSRV9QOUVubDA3NlNXZE1PZzhVZ3RBME9QR1d5R0FxMzg4d2NjYy1BR21kQ1gwR0s4Ylhya0RuR0JQekdQOUc3eHVDRVZwWQ?oc=5",
+            "source": "finyear.com",
+            "date": "03/04 à 07:00",
+            "date_iso": "2026-04-03T07:00:00",
+            "summary": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller&nbsp;&nbsp;finyear.com"
         },
         {
             "title": "Mauna Kea Technologies sécurise une ligne de financement optionnelle de 4 M€ avec Vester Finance",
