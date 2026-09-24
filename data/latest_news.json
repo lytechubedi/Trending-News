@@ -1,5 +1,5 @@
 {
-    "last_updated": "24/09/2026 à 10:34",
+    "last_updated": "24/09/2026 à 15:58",
     "articles": [
         {
             "title": "Technologie : l’IA concentre les flux",
@@ -26,20 +26,12 @@
             "summary": "Blue Owl Technology Finance finalise un placement privé de 150 millions $&nbsp;&nbsp;Investing.com France"
         },
         {
-            "title": "AlphaYoda lève 900.000 euros pour chiffrer le risque réputationnel",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFJaMVJqb2dYSUFCbzVjclQzUXJubkxia3RwN01OcmlaUGJQUXRrM1BkczVZUExxYzd3TW9CcGR1VDFSUkM4S2tLVWpiUXZoZThPLW9sOUVvSU1oVU9SQ2lGbWoyRDFNajBsQ1AwSUlDeXR1bTdTZVk1ZEh2c0dXSlZpSUlTSmtvazJ4dkZBb3dDcEhsNHVrZkN3?oc=5",
-            "source": "Paperjam News",
-            "date": "23/09 à 08:35",
-            "date_iso": "2026-09-23T08:35:10",
-            "summary": "AlphaYoda lève 900.000 euros pour chiffrer le risque réputationnel&nbsp;&nbsp;Paperjam News"
-        },
-        {
             "title": "La tech s'appuie sur l'AI. La finance protège les marges.",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9odzRMc3NZLWdYVTBzVWpDZm90S0NXQzZSYk9za1dtUFhJbUpKWXRTVkNBLUx1WWF3VHczaEIzTXdvLTVyRndQZzV2b25CbENWbEM0OS1CNER5U09DbHlQZlhYWlFpZUxFT3VvVVRsLUJTdW96cE82UDN3Q3FCQQ?oc=5",
-            "source": "Databricks",
+            "source": "databricks.com",
             "date": "17/07 à 07:00",
             "date_iso": "2026-07-17T07:00:00",
-            "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
+            "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;databricks.com"
         },
         {
             "title": "Sweet Technologies, une fintech montréalaise qui grandit aux États-Unis",
@@ -52,10 +44,10 @@
         {
             "title": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdm9iUmN1aGdWYkl1NDdSVVU0Tm5XX0pzbWtBTDVGN19RT0FMZ0xTU3hyZDV2Smlyc3YySXpNTHY0ZzFXT0FZdk5zYjhNWlMzT2dZSTVqbmxHUVg1SWo4RzRiYTRVcVB6QmxCdXFXNmhkdnZUd0cxbXRld204VDluZVdoUndBaDBSd09uSGFiVzNSRV9QOUVubDA3NlNXZE1PZzhVZ3RBME9QR1d5R0FxMzg4d2NjYy1BR21kQ1gwR0s4Ylhya0RuR0JQekdQOUc3eHVDRVZwWQ?oc=5",
-            "source": "Finyear",
+            "source": "finyear.com",
             "date": "03/04 à 07:00",
             "date_iso": "2026-04-03T07:00:00",
-            "summary": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller&nbsp;&nbsp;Finyear"
+            "summary": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller&nbsp;&nbsp;finyear.com"
         },
         {
             "title": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté",
@@ -120,6 +112,14 @@
             "date": "21/07 à 07:00",
             "date_iso": "2026-07-21T07:00:00",
             "summary": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés&nbsp;&nbsp;L'Agefi"
+        },
+        {
+            "title": "Global X lance un FNB de technologies spatiales",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmUxTTFVUS1jRGxFdjMzU2tVZzA2bkFGNGVpQkpQRnZZZzgzSi1yNy02Y1FKN1dzVHRzbUdKbEtXXzdCQTRQVG5MejBDRUtZY3c0Mk02NlZPaGRJTDJvRWFiN28ta0M0Q2hzbkhJZDRQaFVRQko1VDNEdGxJVV9yNXV2OG45VVN2czZpclMtck0?oc=5",
+            "source": "Finance et Investissement",
+            "date": "09/06 à 07:00",
+            "date_iso": "2026-06-09T07:00:00",
+            "summary": "Global X lance un FNB de technologies spatiales&nbsp;&nbsp;Finance et Investissement"
         }
     ]
 }
