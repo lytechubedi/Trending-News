@@ -1,13 +1,13 @@
 {
-    "last_updated": "25/09/2026 à 20:47",
+    "last_updated": "26/09/2026 à 10:21",
     "articles": [
         {
             "title": "LexiFi, PME française high tech, finance à hauteur d’un million d’euros son écosystème avec l’Inria",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnZsbloweXZDVGVIRThoQXNSRXVTSUs4b3NQc3ZSeGcyZEpXc1NSblhZcVpRanJlRnB1SWU5S21JRmpHeXV2S0R3dWJvbWNMandlTXdYb2Y3bmFQSDB4N0l1aEVNaGkyWDQ2ckxSYVBGQ2RZMGZLelVFaWFUTUQyTDVJcjFKdTdQak04ckFMRFZRTF9jRDA0Zmk5b3Jkd1ZETTRiQ0Y5b1ZoSkl0dExXTGsyVGV2YzJmT0VjNXA4WXlNUThlVnVr?oc=5",
-            "source": "larevuedudigital.com",
+            "source": "La Revue du Digital",
             "date": "25/09 à 09:07",
             "date_iso": "2026-09-25T09:07:07",
-            "summary": "LexiFi, PME française high tech, finance à hauteur d’un million d’euros son écosystème avec l’Inria&nbsp;&nbsp;larevuedudigital.com"
+            "summary": "LexiFi, PME française high tech, finance à hauteur d’un million d’euros son écosystème avec l’Inria&nbsp;&nbsp;La Revue du Digital"
         },
         {
             "title": "La confiance, moteur de performance de l'IA dans la fonction Finance",
@@ -18,20 +18,12 @@
             "summary": "La confiance, moteur de performance de l'IA dans la fonction Finance&nbsp;&nbsp;kpmg.com"
         },
         {
-            "title": "Vietjet : bâtir un avenir de croissance, d’innovation et de connectivité mondiale",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUIxN1J1bGplajNhQnFJbmlxd1NOZlYzaUdSdGdWNG1nVHNGUjVHbXkzMUZLc1BYX0RNU0x6UFhJblU2dHRzM01sNTJEQ2lwOWxaM2pfbV81OEtJSmYxekhmNGJnSnBhOTctLXNNQm9UOHc0SXllYWt4NEotM2p1ZkFqM0M3bDRmVXR6QlZyZ3BadHhkU2Q4dGQwWVRhSGVNT0E3bHhycjNtWC1wM3RKY2xR?oc=5",
-            "source": "lecourrier.vn",
-            "date": "25/09 à 09:43",
-            "date_iso": "2026-09-25T09:43:00",
-            "summary": "Vietjet : bâtir un avenir de croissance, d’innovation et de connectivité mondiale&nbsp;&nbsp;lecourrier.vn"
-        },
-        {
             "title": "Technologie : l’IA concentre les flux",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTY2TkkwN040UWxMeW1WRHYzNG9LZ0h1NzRqWG1lS2ZYc01xNEdoaXBvRi1DRlRsSzFIQXF2aHJFeXphNWtlRjBFZGkzTXRha3R4YTR5RFBkUWpTZHU5bVg3d1oxTHJxdlRCYWtRZ1JmZUpLZmJta3FaUm5BbXJMOGluV01QVk5lUEY1RVBhbXZzN3RVaEU1R2tR?oc=5",
-            "source": "optionfinance.fr",
+            "source": "Option Finance",
             "date": "24/09 à 07:54",
             "date_iso": "2026-09-24T07:54:00",
-            "summary": "Technologie : l’IA concentre les flux&nbsp;&nbsp;optionfinance.fr"
+            "summary": "Technologie : l’IA concentre les flux&nbsp;&nbsp;Option Finance"
         },
         {
             "title": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI",
@@ -40,6 +32,14 @@
             "date": "22/09 à 16:02",
             "date_iso": "2026-09-22T16:02:41",
             "summary": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI&nbsp;&nbsp;TradingView"
+        },
+        {
+            "title": "Vietjet : bâtir un avenir de croissance, d’innovation et de connectivité mondiale",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUIxN1J1bGplajNhQnFJbmlxd1NOZlYzaUdSdGdWNG1nVHNGUjVHbXkzMUZLc1BYX0RNU0x6UFhJblU2dHRzM01sNTJEQ2lwOWxaM2pfbV81OEtJSmYxekhmNGJnSnBhOTctLXNNQm9UOHc0SXllYWt4NEotM2p1ZkFqM0M3bDRmVXR6QlZyZ3BadHhkU2Q4dGQwWVRhSGVNT0E3bHhycjNtWC1wM3RKY2xR?oc=5",
+            "source": "lecourrier.vn",
+            "date": "25/09 à 09:43",
+            "date_iso": "2026-09-25T09:43:00",
+            "summary": "Vietjet : bâtir un avenir de croissance, d’innovation et de connectivité mondiale&nbsp;&nbsp;lecourrier.vn"
         },
         {
             "title": "Thaïlande cherche investissements américains dans les technologies du futur",
@@ -74,14 +74,6 @@
             "summary": "Aye Finance Appoints Nishit Shrivastava As Chief Technology Officer&nbsp;&nbsp;TradingView"
         },
         {
-            "title": "Vietnam-États-Unis : Tô Lâm veut renforcer les partenariats avec les entreprises américaines",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFZCSVZZUGt3X3BDOHVIc0diUVRlcGdVM2lVZmdxSmhTLTcyWU8zVUp2SFF0cFpzVmJHOUJzemRyZjByYm5EeDN3cTFIYmc5UnpaUms5ejZSaE5CaG1BdFdRSEd5OFJ6c2EwMjlnQ2pTN1NMZjdxeWZ5TlJDcVVVdlFCMy1vcTN1Z3Ztd1VRNGdpSy1DZ1JIUDNRRGxfV0U?oc=5",
-            "source": "Lepetitjournal.com",
-            "date": "25/09 à 01:04",
-            "date_iso": "2026-09-25T01:04:25",
-            "summary": "Vietnam-États-Unis : Tô Lâm veut renforcer les partenariats avec les entreprises américaines&nbsp;&nbsp;Lepetitjournal.com"
-        },
-        {
             "title": "La tech s'appuie sur l'AI. La finance protège les marges.",
             "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9odzRMc3NZLWdYVTBzVWpDZm90S0NXQzZSYk9za1dtUFhJbUpKWXRTVkNBLUx1WWF3VHczaEIzTXdvLTVyRndQZzV2b25CbENWbEM0OS1CNER5U09DbHlQZlhYWlFpZUxFT3VvVVRsLUJTdW96cE82UDN3Q3FCQQ?oc=5",
             "source": "Databricks",
@@ -90,12 +82,12 @@
             "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
         },
         {
-            "title": "Safran entre au capital d'Akira pour accélérer dans les technologies propulsives",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcWpIb0VmRnJKVVN6SFd1MjZYU21YdTBDQmEzVmVtOGEwanNjLVhyTGJ3azdrWDFIcllPSDRFaW9iRFQwc1JYODhaUjZwTU5mTGs5MndSekJXZm9nRGxSTFI1UmdCSHhycEYxZUl2SVRYa1Y2MTViRUFiblI0NGY0cFhDVzJVaHVXRFhhQkFaYjFxZndQa1lDNEpfM1BwRkxiNEh1SGhhdUhrMkNXRFJFejZLbXR3ajk3TTJHY2w0WU02SG85OVFLb1dzYmNiaHV3LTVyYWMxVkY1Z19iQVpKeHBaTFRFQTZt?oc=5",
-            "source": "optionfinance.fr",
-            "date": "22/09 à 12:44",
-            "date_iso": "2026-09-22T12:44:00",
-            "summary": "Safran entre au capital d'Akira pour accélérer dans les technologies propulsives&nbsp;&nbsp;optionfinance.fr"
+            "title": "Vietnam-États-Unis : Tô Lâm veut renforcer les partenariats avec les entreprises américaines",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFZCSVZZUGt3X3BDOHVIc0diUVRlcGdVM2lVZmdxSmhTLTcyWU8zVUp2SFF0cFpzVmJHOUJzemRyZjByYm5EeDN3cTFIYmc5UnpaUms5ejZSaE5CaG1BdFdRSEd5OFJ6c2EwMjlnQ2pTN1NMZjdxeWZ5TlJDcVVVdlFCMy1vcTN1Z3Ztd1VRNGdpSy1DZ1JIUDNRRGxfV0U?oc=5",
+            "source": "Lepetitjournal.com",
+            "date": "25/09 à 01:04",
+            "date_iso": "2026-09-25T01:04:25",
+            "summary": "Vietnam-États-Unis : Tô Lâm veut renforcer les partenariats avec les entreprises américaines&nbsp;&nbsp;Lepetitjournal.com"
         },
         {
             "title": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté",
@@ -112,6 +104,14 @@
             "date": "19/08 à 07:00",
             "date_iso": "2026-08-19T07:00:00",
             "summary": "D’où viendra la prochaine crise ? [Épisode 4] L’intelligence artificielle et les nouvelles technologies&nbsp;&nbsp;La finance pour tous"
+        },
+        {
+            "title": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQndZWnowWEpHRFFQTUVCUHVyR19CenNSNFlEY3l4STlrdVVvYW91a0RPdUVTMDUzemdHZVhaM1NPaWs1ZHBzdENnU0lFYWs1OEJwak5KdkcwVVQ1Y2RxTEZiYlNSY1VXd0RiRXVqcVFiLVV4SkZzSEtNS0w5em1aNGlDc0c3alpubWdISGpTM25MWWFkcGNOTi1lM0h3MkpzdF9xZWZiaGFDMWVSbE9JQzc0eldPWGs2QTFLQUhQOFl5VDF5?oc=5",
+            "source": "Maddyness",
+            "date": "19/06 à 07:00",
+            "date_iso": "2026-06-19T07:00:00",
+            "summary": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne&nbsp;&nbsp;Maddyness"
         },
         {
             "title": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés",
