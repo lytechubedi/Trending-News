@@ -1,5 +1,5 @@
 {
-    "last_updated": "29/09/2026 à 17:04",
+    "last_updated": "29/09/2026 à 21:33",
     "articles": [
         {
             "title": "Recherche publique et start-up : les secrets d’un mariage heureux",
@@ -32,14 +32,6 @@
             "date": "04/09 à 12:37",
             "date_iso": "2026-09-04T12:37:00",
             "summary": "Blue Owl Technology Finance finalise un placement privé de 150 millions $&nbsp;&nbsp;Investing.com France"
-        },
-        {
-            "title": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02QkJPVzUtd2gzTUpIUHBIOGlOOVZVaFFoWnZzUnptRjRhY1BhNzZmUmx1LThPdFd0b2IwT1pyTEJvdld3SldkTDlXRHpMUlR6dzc4T3RpVmpQRE0?oc=5",
-            "source": "TradingView",
-            "date": "22/09 à 16:02",
-            "date_iso": "2026-09-22T16:02:41",
-            "summary": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI&nbsp;&nbsp;TradingView"
         },
         {
             "title": "Sweet Technologies, une fintech montréalaise qui grandit aux États-Unis",
@@ -84,10 +76,10 @@
         {
             "title": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQndZWnowWEpHRFFQTUVCUHVyR19CenNSNFlEY3l4STlrdVVvYW91a0RPdUVTMDUzemdHZVhaM1NPaWs1ZHBzdENnU0lFYWs1OEJwak5KdkcwVVQ1Y2RxTEZiYlNSY1VXd0RiRXVqcVFiLVV4SkZzSEtNS0w5em1aNGlDc0c3alpubWdISGpTM25MWWFkcGNOTi1lM0h3MkpzdF9xZWZiaGFDMWVSbE9JQzc0eldPWGs2QTFLQUhQOFl5VDF5?oc=5",
-            "source": "Maddyness",
+            "source": "maddyness.com",
             "date": "19/06 à 07:00",
             "date_iso": "2026-06-19T07:00:00",
-            "summary": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne&nbsp;&nbsp;Maddyness"
+            "summary": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne&nbsp;&nbsp;maddyness.com"
         },
         {
             "title": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés",
@@ -120,6 +112,14 @@
             "date": "10/06 à 16:00",
             "date_iso": "2026-06-10T16:00:03",
             "summary": "La technologie n’est plus un avantage concurrentiel dans la finance&nbsp;&nbsp;Paperjam News"
+        },
+        {
+            "title": "Chute des valeurs tech en Bourse : le début de l’éclatement de la bulle de l’IA ?",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMG1WS0MxclN1Zk1TTzJ2R0hJdFU4bTdMcTl1ME5neWJlMk9QVnZ2SERmZTRPUkp4U3NsTTZ5OWdpOUFxS2J6YTVCSmtIZlUyLV9YNnl4alJJbGJxSHVMajdlSG0xUG1NRGpIRmhJN0JSbVltYlNrUE5yb1c3ZldjWGFkODRoNjJhR1JkS2tTd21yeXZUTmctYkJBSWZfVzBfeFNTVGFBc0VQeTRCcjlXMTlKSU5zcGhfejVTRXd0V05wM1hnMUNVMDdFMi1FZnEtQVF6RWQ0VXYzbkY0T0dqTm5BSkVvYU0?oc=5",
+            "source": "La Tribune",
+            "date": "26/06 à 07:00",
+            "date_iso": "2026-06-26T07:00:00",
+            "summary": "Chute des valeurs tech en Bourse : le début de l’éclatement de la bulle de l’IA ?&nbsp;&nbsp;La Tribune"
         }
     ]
 }
