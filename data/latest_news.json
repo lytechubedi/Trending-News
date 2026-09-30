@@ -1,14 +1,6 @@
 {
-    "last_updated": "29/09/2026 à 21:33",
+    "last_updated": "30/09/2026 à 02:33",
     "articles": [
-        {
-            "title": "Recherche publique et start-up : les secrets d’un mariage heureux",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeE80NF9ucnpBMEtPZHBCb0VWZjR6ZXk4YnRkSG9lS0pCVlRnODNxNWJ6WHBsOUgtVEVHRDUyZ1hWcElFZDVleFRyanJqckVJdEdiR25lV2VXUkxBX3hNdkdabmxvLVFFQXZuX1ZYcUg2clhqaXZEWnZ0MXNZeDA1eXNvMXd1ZDhvem5YaENKTTBNS29EYTg5ZzJkRml3Qk1zQ1ZtRGo1WFJ0QQ?oc=5",
-            "source": "EY",
-            "date": "29/09 à 06:49",
-            "date_iso": "2026-09-29T06:49:09",
-            "summary": "Recherche publique et start-up : les secrets d’un mariage heureux&nbsp;&nbsp;EY"
-        },
         {
             "title": "LexiFi, PME française high tech, finance à hauteur d’un million d’euros son écosystème avec l’Inria",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdnZsbloweXZDVGVIRThoQXNSRXVTSUs4b3NQc3ZSeGcyZEpXc1NSblhZcVpRanJlRnB1SWU5S21JRmpHeXV2S0R3dWJvbWNMandlTXdYb2Y3bmFQSDB4N0l1aEVNaGkyWDQ2ckxSYVBGQ2RZMGZLelVFaWFUTUQyTDVJcjFKdTdQak04ckFMRFZRTF9jRDA0Zmk5b3Jkd1ZETTRiQ0Y5b1ZoSkl0dExXTGsyVGV2YzJmT0VjNXA4WXlNUThlVnVr?oc=5",
@@ -16,6 +8,14 @@
             "date": "25/09 à 09:07",
             "date_iso": "2026-09-25T09:07:07",
             "summary": "LexiFi, PME française high tech, finance à hauteur d’un million d’euros son écosystème avec l’Inria&nbsp;&nbsp;La Revue du Digital"
+        },
+        {
+            "title": "Recherche publique et start-up : les secrets d’un mariage heureux",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeE80NF9ucnpBMEtPZHBCb0VWZjR6ZXk4YnRkSG9lS0pCVlRnODNxNWJ6WHBsOUgtVEVHRDUyZ1hWcElFZDVleFRyanJqckVJdEdiR25lV2VXUkxBX3hNdkdabmxvLVFFQXZuX1ZYcUg2clhqaXZEWnZ0MXNZeDA1eXNvMXd1ZDhvem5YaENKTTBNS29EYTg5ZzJkRml3Qk1zQ1ZtRGo1WFJ0QQ?oc=5",
+            "source": "EY",
+            "date": "29/09 à 06:49",
+            "date_iso": "2026-09-29T06:49:09",
+            "summary": "Recherche publique et start-up : les secrets d’un mariage heureux&nbsp;&nbsp;EY"
         },
         {
             "title": "Technologie : l’IA concentre les flux",
@@ -44,7 +44,7 @@
         {
             "title": "Horizon Technology Finance Corporation annonce le versement de dividendes mensuels pour octobre, novembre et décembre 2026, payables respectivement les 15 octobre, 16 novembre et 15 décembre 2026",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSTVoZ3ZfalNYOExhcGVuUkR3NmFhTE5oVlNVWkxBSW5ZR2JkNGFiLVVLSlFBb0pDaWtyU1lxVGZqZm9SenZPS1N1aVlmZVRBdlN3dFBfck5lZkc5S2J6czRIck1jd1ROdUUtZzd1cXRHX0RuRUl0cmp1YjVzSTloMzdiSGlINFFLNjhVd1RVTS1sUWN5UV91TEJDNmdHMkdSNG0zaUxhdEtVY1l2SHN5UEo2NEFqSEFrdnhzdTRPYTdCZ2hiOWw0bU9YYnZBSW44UXBpeExHSWw5Zmh1MjVPUDhGQWxrOUtJb0o4cmlkQmxTQQ?oc=5",
-            "source": "Zonebourse",
+            "source": "zonebourse.com",
             "date": "04/08 à 07:00",
             "date_iso": "2026-08-04T07:00:00",
             "summary": "Horizon Technology Finance Corporation annonce le versement de dividendes mensuels pour octobre, novembre et décembre 2026, payables respectivement les 15 octobre, 16 novembre et 1..."
@@ -76,10 +76,10 @@
         {
             "title": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQndZWnowWEpHRFFQTUVCUHVyR19CenNSNFlEY3l4STlrdVVvYW91a0RPdUVTMDUzemdHZVhaM1NPaWs1ZHBzdENnU0lFYWs1OEJwak5KdkcwVVQ1Y2RxTEZiYlNSY1VXd0RiRXVqcVFiLVV4SkZzSEtNS0w5em1aNGlDc0c3alpubWdISGpTM25MWWFkcGNOTi1lM0h3MkpzdF9xZWZiaGFDMWVSbE9JQzc0eldPWGs2QTFLQUhQOFl5VDF5?oc=5",
-            "source": "maddyness.com",
+            "source": "Maddyness",
             "date": "19/06 à 07:00",
             "date_iso": "2026-06-19T07:00:00",
-            "summary": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne&nbsp;&nbsp;maddyness.com"
+            "summary": "Tibi 3 : à VivaTech, Bercy officialise 13 milliards d’euros pour financer la tech européenne&nbsp;&nbsp;Maddyness"
         },
         {
             "title": "La Corée du Sud crée un fonds à 15 ans pour financer ses technologies clés",
