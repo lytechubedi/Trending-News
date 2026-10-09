@@ -1,30 +1,6 @@
 {
-    "last_updated": "09/10/2026 à 03:13",
+    "last_updated": "09/10/2026 à 12:08",
     "articles": [
-        {
-            "title": "Csaba Kőrösi : \"La transformation technologique passe par l’investissement dans la science\"",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDd5YXFzMjhDTjJkWXNKY09tUTVpT3dhZnNRaVZaaW5tX2ZEcEJGTVVwd2tqaHhCSUI4V3hMU2szNFJxSUt3MmN5TWhwTjdHck1wSm1LcmZpMElyZ0VsRXlXMUhfMUhUS2lYU3VOVXNnZ3phSFhNM2dENXphdFVNLWJsVElRTXJEYkQ0aEsyZ1pxQ1gtWFluWC02aTkzbktLemE2dElweUNNRzQtUlBmb1FuTnY2NE1zM2F0cHFR?oc=5",
-            "source": "lecourrier.vn",
-            "date": "08/10 à 11:53",
-            "date_iso": "2026-10-08T11:53:00",
-            "summary": "Csaba Kőrösi : \"La transformation technologique passe par l’investissement dans la science\"&nbsp;&nbsp;lecourrier.vn"
-        },
-        {
-            "title": "Quand Vae Solis connecte le conseiller IA du Vatican à la finance et la tech française",
-            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVDNWSkxNRHN0SU11MUY4VDFQVkdrTXdaWE9pOGZ6cHB5WDZzNmdlOFhlN0g4MGRFMlMyQ2Z4cC1lTW9JSWdPalJpSFRaUkhVQTJIMVNxNGY4QS1oM3RkVHpJU05hd1ZCbzl3bUFmUHlhbEZpUkxaRkItWlpDMjFZV0M4Z1BYbjhwd24tR3lUYmdXQUlEeGpWT0RXNWJLY25QdGhPblVMTGVoQzFLTG93S0pnU0ZKYzNXVWZNQm1kb3ZVQ2xzYXRZMmljRjdWaE1UalJDd2tiOGRHVTE4T2tlc3VPMUJmNlNjYkYzbmtwenJ5WDBNZnhNdXhJS19EVnM?oc=5",
-            "source": "La Lettre",
-            "date": "05/10 à 04:20",
-            "date_iso": "2026-10-05T04:20:00",
-            "summary": "Quand Vae Solis connecte le conseiller IA du Vatican à la finance et la tech française&nbsp;&nbsp;La Lettre"
-        },
-        {
-            "title": "Blue Owl Technology Finance Corp. Schedules Earnings Release and Quarterly Earnings Call to Discuss its Third Quarter Ended September 30, 2026 Financial Results",
-            "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPSjdiNVd6dHluOFJvcUN4NXpGYU9aWDBTdmNYcGs2STFtMzZEcnY4NURPX1Z1RUJIdzctSlpYajY3LXhlUGZRaFNpakc4Z3gxeGxlbXo4ZVZORENvUkExeDFlM3pESkt1RmdVRmxtYlhpb3E1UENuZlY0ZmVYSmJLMDRyQ3pCdUVzN3d2SWxWNVVKMnFUeU94MVdScU1LR21HZVNQRjNTWTVSNExaWTNOekdpSEJXckdIT2ZRTDhza1NPdklheWZYVnZQRkp6ckt4dDRXU2ozSExsSDdESl9nMjk5Ml9iU2I0clhWSGZ2UVpXTklVbXZ0eU1adC1xUWFnMGJqSVVFN3JUdE9wTkJ2LTgtMl90a0pvZ2pZV0FJc1pQUHZGdlNVeS1TOXVKSnpibkpNczdERXBjdlRXXzNB?oc=5",
-            "source": "TradingView",
-            "date": "01/10 à 20:15",
-            "date_iso": "2026-10-01T20:15:00",
-            "summary": "Blue Owl Technology Finance Corp. Schedules Earnings Release and Quarterly Earnings Call to Discuss its Third Quarter Ended September 30, 2026 Financial Results&nbsp;&nbsp;TradingV..."
-        },
         {
             "title": "HEC Montréal crée une Chaire en finance et technologie",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTU1CNkprQm1WM0lrNnM0dmR5ZUNZTFdhdUcwTk5UVTJPd1RpUFdzOW0wajNFMkJhd3BrZUpHcVVDWDdDTExZTG95UU54V0xFS1hTc3BGbk5FUjNOSTJyLW5VM2prWGg0Rkx0WGtKaUNCOGtUOUJ0c3kyczZwaFF4MDBtbTFzZTh0c0xJcy0xVXRWbEJsSnBGVy1pa3R3Qi1IQzZMNFZQdGk?oc=5",
@@ -34,12 +10,12 @@
             "summary": "HEC Montréal crée une Chaire en finance et technologie&nbsp;&nbsp;Finance et Investissement"
         },
         {
-            "title": "Brio Platform et Losange Finance annoncent leur fusion et lancent Stellé pour offrir aux gestionnaires de fonds de capital privé une expertise et une technologie reconnues en administration de fonds",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWERPcmo3R29Vb3F2d3BzQUdOX2hsT3gyWTd0OWdXTk9tb1lLcEQ1MHFFSFVOUkU3RGxQSnd6SXdMRWEydDhiYXFkUVYtOHUycm5LNHVmLUllTzFGVklPQ2NCbzVtVkJabi0wTTR5NlFZaFktcUNvc1VCRGhHLVBRekNuN1I4eHRYVEZoVmVMbXZnd19WTUJfVVc2Z0RiZVJ4ZTRCWjJsZ24tV3l4M0xDYzg5ZzdEVFZ5cHFGMkR2XzZCQ3BaeTJ6ZFVwWmFNRnVSUVBiMw?oc=5",
-            "source": "Lelezard",
-            "date": "08/10 à 10:54",
-            "date_iso": "2026-10-08T10:54:22",
-            "summary": "Brio Platform et Losange Finance annoncent leur fusion et lancent Stellé pour offrir aux gestionnaires de fonds de capital privé une expertise et une technologie reconnues en admin..."
+            "title": "Csaba Kőrösi : \"La transformation technologique passe par l’investissement dans la science\"",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDd5YXFzMjhDTjJkWXNKY09tUTVpT3dhZnNRaVZaaW5tX2ZEcEJGTVVwd2tqaHhCSUI4V3hMU2szNFJxSUt3MmN5TWhwTjdHck1wSm1LcmZpMElyZ0VsRXlXMUhfMUhUS2lYU3VOVXNnZ3phSFhNM2dENXphdFVNLWJsVElRTXJEYkQ0aEsyZ1pxQ1gtWFluWC02aTkzbktLemE2dElweUNNRzQtUlBmb1FuTnY2NE1zM2F0cHFR?oc=5",
+            "source": "lecourrier.vn",
+            "date": "08/10 à 11:53",
+            "date_iso": "2026-10-08T11:53:00",
+            "summary": "Csaba Kőrösi : \"La transformation technologique passe par l’investissement dans la science\"&nbsp;&nbsp;lecourrier.vn"
         },
         {
             "title": "L’action Blue Owl Technology Finance Corp atteint un plus bas sur 52 semaines à 9,74$",
@@ -56,6 +32,14 @@
             "date": "06/10 à 15:10",
             "date_iso": "2026-10-06T15:10:07",
             "summary": "Immobilier, banques et services publics perdent des plumes. Seule la technologie résiste à la flambée des taux d’intérêt américains&nbsp;&nbsp;Le Temps"
+        },
+        {
+            "title": "Brio Platform et Losange Finance annoncent leur fusion et lancent Stellé pour offrir aux gestionnaires de fonds de capital privé une expertise et une technologie reconnues en administration de fonds",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWERPcmo3R29Vb3F2d3BzQUdOX2hsT3gyWTd0OWdXTk9tb1lLcEQ1MHFFSFVOUkU3RGxQSnd6SXdMRWEydDhiYXFkUVYtOHUycm5LNHVmLUllTzFGVklPQ2NCbzVtVkJabi0wTTR5NlFZaFktcUNvc1VCRGhHLVBRekNuN1I4eHRYVEZoVmVMbXZnd19WTUJfVVc2Z0RiZVJ4ZTRCWjJsZ24tV3l4M0xDYzg5ZzdEVFZ5cHFGMkR2XzZCQ3BaeTJ6ZFVwWmFNRnVSUVBiMw?oc=5",
+            "source": "Lelezard",
+            "date": "08/10 à 10:54",
+            "date_iso": "2026-10-08T10:54:22",
+            "summary": "Brio Platform et Losange Finance annoncent leur fusion et lancent Stellé pour offrir aux gestionnaires de fonds de capital privé une expertise et une technologie reconnues en admin..."
         },
         {
             "title": "Groupe M6 réorganise ses fonctions transverses et crée un pôle Finance, Technologies et Transformation",
@@ -90,14 +74,6 @@
             "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
         },
         {
-            "title": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmlfRGk1NEFscktxcFliRDM1Wnl6SWJQUTN2QzlZWVB6UkxNTXJkRmIwQm9UMzVpT2J0bWczZmZ0VUR2UU44S0tLV0lEcHBuR3V0NFZGU0hUQ3ZiOWVFQ3VzYVRrTFowWW82V0lNcFg1UVlVbHNOMU5jT0wwcVNJejkwVjR4VEgybFZoMGdvLUpWSEpTYXRreXFfSXFiREZtQmFWSDc5M1BFRHdHOV9LUDFQYUc1Ykd1dG95a041N05hdw?oc=5",
-            "source": "Vietnam.vn",
-            "date": "07/10 à 07:00",
-            "date_iso": "2026-10-07T07:00:00",
-            "summary": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.&nbsp;&nbsp;Vietnam.vn"
-        },
-        {
             "title": "D’où viendra la prochaine crise ? [Épisode 4] L’intelligence artificielle et les nouvelles technologies",
             "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1JrNkRQVHZIbzU4Si1xV3hNU1lDNk9xWF9iWERRT0hsNHJiczRvSzFZMnVVejBSZjV0NEFtZXRfU2VYSjFBUlpaVTN3V01UbVhBTjdzYkJGVFVwdWtjcmY2NG1vQWdsV0U5Y0dUQlRtRWJnV1J4OHNqMjNHMFdrMnBJbi16LTNib29vSWNxbEw3aVZsWUUzdlFNQkJYM1M5RWdoNHV6Q1V1eVRjVzgxS0c0MTNSMWkxR2VXWElXanFFQ2ZfWXNFOGJmb0RXbVdsMEhpVmhIQkhRZ2c?oc=5",
             "source": "La finance pour tous",
@@ -106,12 +82,28 @@
             "summary": "D’où viendra la prochaine crise ? [Épisode 4] L’intelligence artificielle et les nouvelles technologies&nbsp;&nbsp;La finance pour tous"
         },
         {
-            "title": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02QkJPVzUtd2gzTUpIUHBIOGlOOVZVaFFoWnZzUnptRjRhY1BhNzZmUmx1LThPdFd0b2IwT1pyTEJvdld3SldkTDlXRHpMUlR6dzc4T3RpVmpQRE0?oc=5",
-            "source": "TradingView",
-            "date": "22/09 à 07:00",
-            "date_iso": "2026-09-22T07:00:00",
-            "summary": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI&nbsp;&nbsp;TradingView"
+            "title": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmlfRGk1NEFscktxcFliRDM1Wnl6SWJQUTN2QzlZWVB6UkxNTXJkRmIwQm9UMzVpT2J0bWczZmZ0VUR2UU44S0tLV0lEcHBuR3V0NFZGU0hUQ3ZiOWVFQ3VzYVRrTFowWW82V0lNcFg1UVlVbHNOMU5jT0wwcVNJejkwVjR4VEgybFZoMGdvLUpWSEpTYXRreXFfSXFiREZtQmFWSDc5M1BFRHdHOV9LUDFQYUc1Ykd1dG95a041N05hdw?oc=5",
+            "source": "Vietnam.vn",
+            "date": "07/10 à 07:00",
+            "date_iso": "2026-10-07T07:00:00",
+            "summary": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.&nbsp;&nbsp;Vietnam.vn"
+        },
+        {
+            "title": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté",
+            "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeTdfZXZoeVd2SnJWeXRwRnJwcHdiT0hzdFVXYjhkN1JXVFBrUU93dEhONEJON2I0OTlnUXJTbVBQbU5ob0tnTE50dXJRRjQ2SG5PUkZWVV9iSURteDZ3TVNwcEI5d3B4ODB3Z2FTa085NENySHc3ZUZEaUJEeWh5cG0tdGhUWk4yem5VMUFzNWFCWW5xZWR5S0dNZGJNQ0ltbFZLV2JFRVdWR2lDTDJicGJsR0VSMV9MSUViWWZNTDBvMGlkLThQcXN4SXFyZGlUelJoZDZXeV9EUE9JdTlial81aVVaMnlRNkg2ZnNSMUlObmh2YjE3bHg5V0tOaXV0NUZmSEh3SmhVV2ZpTFBwQlZ5RVJDVUlOSWFscFBBNWVOV3c?oc=5",
+            "source": "economie.gouv.fr",
+            "date": "25/06 à 07:00",
+            "date_iso": "2026-06-25T07:00:00",
+            "summary": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté&nbsp;&nbsp;economie.gouv.fr"
+        },
+        {
+            "title": "Horizon Technology Finance Corporation annonce le versement de distributions mensuelles spéciales pour juillet, août et septembre 2026, payables respectivement les 15 juillet, 14 août et 15 septembre 2026",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWU1QTcxVjZqaDEtYzRidU40cVJBOUNJZjJzTS1MNUdPay1OUlFnZVktY2w5cVpvNTIwWDlzWTVWYUx5UzNvRENPbzgtZ2FCeVlORk1EUWdpV1VJcVV3ZC1HcVpTNm42aG9qVzFkbzFfMFhjR0lGVTJFeFg1RGFUMjNOQzExLUN3SkR6LTZYcVNmVERsTDZzR1NnR3VVVzdsT2xVLUNaZXNMT0FOek5PWFFOQUFGV0JTYmdBOGhyR05LaG53N1Q3Smh0LVN2czFpS0NkcWdNNnc3Q2hibTBBSnhlcVNqMTU4ZzB1SnVHU1NhQQ?oc=5",
+            "source": "Zonebourse Suisse",
+            "date": "05/05 à 07:00",
+            "date_iso": "2026-05-05T07:00:00",
+            "summary": "Horizon Technology Finance Corporation annonce le versement de distributions mensuelles spéciales pour juillet, août et septembre 2026, payables respectivement les 15 juillet, 14 a..."
         },
         {
             "title": "Les investissements dans la technologie financière en baisse",
@@ -120,6 +112,14 @@
             "date": "02/10 à 07:00",
             "date_iso": "2026-10-02T07:00:00",
             "summary": "Les investissements dans la technologie financière en baisse&nbsp;&nbsp;Finance et Investissement"
+        },
+        {
+            "title": "Bytes Technology propulsé par un relèvement chez Deutsche Bank",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOW91Vk9nUnUxclNmZG1mOFpDWkFWS29mT3JtSGROa3VfYlJCMjRsZnN1VUFjSU14RFViQzB3cGxUR2NqYWUwUmVjSEZ1MG5RMXZ4OEdIcWZCb1F3Vk1Xa0xWX3pFQ0VFM3AtRXVYYVBLZW9MUUtqeHZEcTBBM3dqQWlGSG5hcVVUaEs2NGoyNktxcnZwbkhXWXhxUHAtRFBES3YtYk03T1M0NWlVNlV1VXkzMlNrb2FrN3hqTWwtc1hka285Y09MbWJGdXd2bnVIZmc?oc=5",
+            "source": "Option Finance",
+            "date": "26/08 à 08:10",
+            "date_iso": "2026-08-26T08:10:00",
+            "summary": "Bytes Technology propulsé par un relèvement chez Deutsche Bank&nbsp;&nbsp;Option Finance"
         }
     ]
 }
