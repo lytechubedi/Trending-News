@@ -1,5 +1,5 @@
 {
-    "last_updated": "10/10/2026 à 16:25",
+    "last_updated": "10/10/2026 à 20:45",
     "articles": [
         {
             "title": "Csaba Kőrösi : \"La transformation technologique passe par l’investissement dans la science\"",
@@ -34,14 +34,6 @@
             "summary": "«La technologie doit servir la relation, pas s’y substituer»&nbsp;&nbsp;Paperjam News"
         },
         {
-            "title": "Brio Platform et Losange Finance annoncent leur fusion et lancent Stellé pour offrir aux gestionnaires de fonds de capital privé une expertise et une technologie reconnues en administration de fonds",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWERPcmo3R29Vb3F2d3BzQUdOX2hsT3gyWTd0OWdXTk9tb1lLcEQ1MHFFSFVOUkU3RGxQSnd6SXdMRWEydDhiYXFkUVYtOHUycm5LNHVmLUllTzFGVklPQ2NCbzVtVkJabi0wTTR5NlFZaFktcUNvc1VCRGhHLVBRekNuN1I4eHRYVEZoVmVMbXZnd19WTUJfVVc2Z0RiZVJ4ZTRCWjJsZ24tV3l4M0xDYzg5ZzdEVFZ5cHFGMkR2XzZCQ3BaeTJ6ZFVwWmFNRnVSUVBiMw?oc=5",
-            "source": "Lelezard",
-            "date": "08/10 à 10:54",
-            "date_iso": "2026-10-08T10:54:22",
-            "summary": "Brio Platform et Losange Finance annoncent leur fusion et lancent Stellé pour offrir aux gestionnaires de fonds de capital privé une expertise et une technologie reconnues en admin..."
-        },
-        {
             "title": "Groupe M6 réorganise ses fonctions transverses et crée un pôle Finance, Technologies et Transformation",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXNMcWN3dkczZ0E5Y1ljWEM0ZGR5ZVZlam0xVEhoY2VjMHdKd2xWU2pDdW9qbWpVdjZkQkxtdHA4WFNHTDlidDdDYWJPR3ZqMEI2cU9oYnd2MjlUVkpFNmFJVWR6MG1JczFwWWJNdHE4YnlROVVIQno5Tlh1cUQtVFlXWUROOUtJQnVUaVRiVzhPeno3Ym5BczBNTk5CYmx3bGRUOHNaQUk1QTdvNUVsbFJ3TTR1cXhINzJWSA?oc=5",
             "source": "ABC Bourse",
@@ -56,6 +48,14 @@
             "date": "24/09 à 07:54",
             "date_iso": "2026-09-24T07:54:00",
             "summary": "Technologie : l’IA concentre les flux&nbsp;&nbsp;Option Finance"
+        },
+        {
+            "title": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02QkJPVzUtd2gzTUpIUHBIOGlOOVZVaFFoWnZzUnptRjRhY1BhNzZmUmx1LThPdFd0b2IwT1pyTEJvdld3SldkTDlXRHpMUlR6dzc4T3RpVmpQRE0?oc=5",
+            "source": "TradingView",
+            "date": "22/09 à 07:00",
+            "date_iso": "2026-09-22T07:00:00",
+            "summary": "SOFI Prix de l'action et Graphique - NASDAQ:SOFI&nbsp;&nbsp;TradingView"
         },
         {
             "title": "Collaboration renforcée pour développer des technologies financières",
@@ -90,20 +90,20 @@
             "summary": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté&nbsp;&nbsp;economie.gouv.fr"
         },
         {
-            "title": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmlfRGk1NEFscktxcFliRDM1Wnl6SWJQUTN2QzlZWVB6UkxNTXJkRmIwQm9UMzVpT2J0bWczZmZ0VUR2UU44S0tLV0lEcHBuR3V0NFZGU0hUQ3ZiOWVFQ3VzYVRrTFowWW82V0lNcFg1UVlVbHNOMU5jT0wwcVNJejkwVjR4VEgybFZoMGdvLUpWSEpTYXRreXFfSXFiREZtQmFWSDc5M1BFRHdHOV9LUDFQYUc1Ykd1dG95a041N05hdw?oc=5",
-            "source": "Vietnam.vn",
-            "date": "07/10 à 07:00",
-            "date_iso": "2026-10-07T07:00:00",
-            "summary": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.&nbsp;&nbsp;Vietnam.vn"
-        },
-        {
             "title": "Horizon Technology Finance Corporation annonce le versement de distributions mensuelles spéciales pour juillet, août et septembre 2026, payables respectivement les 15 juillet, 14 août et 15 septembre 2026",
             "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWU1QTcxVjZqaDEtYzRidU40cVJBOUNJZjJzTS1MNUdPay1OUlFnZVktY2w5cVpvNTIwWDlzWTVWYUx5UzNvRENPbzgtZ2FCeVlORk1EUWdpV1VJcVV3ZC1HcVpTNm42aG9qVzFkbzFfMFhjR0lGVTJFeFg1RGFUMjNOQzExLUN3SkR6LTZYcVNmVERsTDZzR1NnR3VVVzdsT2xVLUNaZXNMT0FOek5PWFFOQUFGV0JTYmdBOGhyR05LaG53N1Q3Smh0LVN2czFpS0NkcWdNNnc3Q2hibTBBSnhlcVNqMTU4ZzB1SnVHU1NhQQ?oc=5",
             "source": "Zonebourse Suisse",
             "date": "05/05 à 07:00",
             "date_iso": "2026-05-05T07:00:00",
             "summary": "Horizon Technology Finance Corporation annonce le versement de distributions mensuelles spéciales pour juillet, août et septembre 2026, payables respectivement les 15 juillet, 14 a..."
+        },
+        {
+            "title": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmlfRGk1NEFscktxcFliRDM1Wnl6SWJQUTN2QzlZWVB6UkxNTXJkRmIwQm9UMzVpT2J0bWczZmZ0VUR2UU44S0tLV0lEcHBuR3V0NFZGU0hUQ3ZiOWVFQ3VzYVRrTFowWW82V0lNcFg1UVlVbHNOMU5jT0wwcVNJejkwVjR4VEgybFZoMGdvLUpWSEpTYXRreXFfSXFiREZtQmFWSDc5M1BFRHdHOV9LUDFQYUc1Ykd1dG95a041N05hdw?oc=5",
+            "source": "Vietnam.vn",
+            "date": "07/10 à 07:00",
+            "date_iso": "2026-10-07T07:00:00",
+            "summary": "HDBank et l'Université nationale du Vietnam à Hô Chi Minh-Ville collaborent étroitement dans les domaines de l'éducation, de la finance et de la technologie.&nbsp;&nbsp;Vietnam.vn"
         },
         {
             "title": "Les investissements dans la technologie financière en baisse",
