@@ -1,6 +1,14 @@
 {
-    "last_updated": "02/11/2026 à 13:55",
+    "last_updated": "03/11/2026 à 00:05",
     "articles": [
+        {
+            "title": "Wall Street clôture sans direction claire, la tech encore à la peine",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGNaRVFKajdoNEpDbFZPZWFvQ21IRUw4emh5WmdXeWM1STgzZ19aMXpENkFfeTdURWxfWm1fWGpfRXFaMWNjeVVRcV9TWHFYM1NObnJsZU9KUEszM1d3OFJZSTNjbjVQTVVicG5BQW81SHUycnlrVEpBXzVZeC1UV2pxNGF6MEhZWmZzdVcyYXpxRldyWVZuMERxbVA?oc=5",
+            "source": "Yahoo Finance France",
+            "date": "02/11 à 21:48",
+            "date_iso": "2026-11-02T21:48:11",
+            "summary": "Wall Street clôture sans direction claire, la tech encore à la peine&nbsp;&nbsp;Yahoo Finance France"
+        },
         {
             "title": "Blue Owl Technology Finance Corp. Estimates – MUN:F4G",
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EUkhOVHBsejAwakxXVzd2Y2lZa0ZwSUt5TG5taWl5TnNiVzFGd1V1UlN1eFF4cjlTdkk3U054WU5RTHZKVzRnemZEMUUwSnJyOHZPd2dKekR6WXdELU56dUdNdXc3SjlBSmphV056d0NnUQ?oc=5",
@@ -8,14 +16,6 @@
             "date": "01/11 à 05:24",
             "date_iso": "2026-11-01T05:24:32",
             "summary": "Blue Owl Technology Finance Corp. Estimates – MUN:F4G&nbsp;&nbsp;TradingView"
-        },
-        {
-            "title": "L'Europe cherche des minerais critiques d'Asie centrale, qui veulent les transformer sur place",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEEtakhkMTBFckVieFAwYjhvc1RNV1M0bmE4dW9YTXNwNml0YXotM3dKS1Frdmx3TFlYcUloQlVqUzRSbUdKSkp5UDV2c1V0YlFrcDNiXy0yWmh2MkV4WXpFOEtqSUhoZTF6S2hXVXg3bGhUZ3B6R09seWI5dVA2Vi1yb0FCanRpRTJWV3Q5WEFHNnRwcC05UnVaMA?oc=5",
-            "source": "Yahoo Finance France",
-            "date": "02/11 à 08:20",
-            "date_iso": "2026-11-02T08:20:29",
-            "summary": "L'Europe cherche des minerais critiques d'Asie centrale, qui veulent les transformer sur place&nbsp;&nbsp;Yahoo Finance France"
         },
         {
             "title": "Enterprise value to EBIT forward de Blue Owl Technology Finance Corp. – MUN:F4G",
@@ -26,20 +26,20 @@
             "summary": "Enterprise value to EBIT forward de Blue Owl Technology Finance Corp. – MUN:F4G&nbsp;&nbsp;TradingView"
         },
         {
+            "title": "L'Europe cherche des minerais critiques d'Asie centrale, qui veulent les transformer sur place",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEEtakhkMTBFckVieFAwYjhvc1RNV1M0bmE4dW9YTXNwNml0YXotM3dKS1Frdmx3TFlYcUloQlVqUzRSbUdKSkp5UDV2c1V0YlFrcDNiXy0yWmh2MkV4WXpFOEtqSUhoZTF6S2hXVXg3bGhUZ3B6R09seWI5dVA2Vi1yb0FCanRpRTJWV3Q5WEFHNnRwcC05UnVaMA?oc=5",
+            "source": "Yahoo Finance France",
+            "date": "02/11 à 08:20",
+            "date_iso": "2026-11-02T08:20:29",
+            "summary": "L'Europe cherche des minerais critiques d'Asie centrale, qui veulent les transformer sur place&nbsp;&nbsp;Yahoo Finance France"
+        },
+        {
             "title": "L’initiative Tibi : mobiliser l’épargne institutionnelle au service des entreprises technologiques",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaC13djlCWEltVjN0bnlUdXVzekg1MHNxa3hPRVZsWjloYXc2NGFoR1FCZy0zUnpVY3pfRGdqWDRqRXQxZUprWlBCbEFHb1JTVkUzdFpwSHlIcG1KdG1IUGVkQzlPOEc2NHNTeFZEVWU0M3YtTFZwTUVmMFRWX3hLRFpkekJROXlxQVFvYmNNNTJTZnBsU0xIUjliTjdzYWo0dlFWZA?oc=5",
             "source": "economie.gouv.fr",
             "date": "29/09 à 07:00",
             "date_iso": "2026-09-29T07:00:00",
             "summary": "L’initiative Tibi : mobiliser l’épargne institutionnelle au service des entreprises technologiques&nbsp;&nbsp;economie.gouv.fr"
-        },
-        {
-            "title": "Les actions asiatiques progressent grâce à la technologie avant les résultats d’Apple",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFctd3ppYlZLUnZEbzk0UkE2ZTg4cko3a1BPckt5SzlwU2F3SGJuOUlkS0FyeDFxTVYtSV91cUxoSV92NTBMZEFVV1Z5dEM2U1FOWmhDUE5NRkxYOWZ3eEpiNkhkQ1AzQnR3TGFHdE4wb3kwZnF2QkhqanRrMDlxTkFRNWtBQVcyYXAwTExSMHNBMG1XYWE4MmFjZzhxcDdZTXFZUmVB?oc=5",
-            "source": "Yahoo Finance France",
-            "date": "01/11 à 20:51",
-            "date_iso": "2026-11-01T20:51:00",
-            "summary": "Les actions asiatiques progressent grâce à la technologie avant les résultats d’Apple&nbsp;&nbsp;Yahoo Finance France"
         },
         {
             "title": "La tech s'appuie sur l'AI. La finance protège les marges.",
@@ -58,12 +58,12 @@
             "summary": "Horizon Technology Finance Corporation expected to post earnings of 18 cents a share - Earnings Preview&nbsp;&nbsp;TradingView"
         },
         {
-            "title": "Bourses mondiales: retour des doutes sur l'IA, la tech déraille à Wall Street",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1pZSmZXblZCbHB1ZWp3SWlreEx5bG1GdGlBN0wwd0lwWndEUGtwOHA2X3lYaGd5RkR5R2lnUGhqdkgyR3poa2c1YzJONFdxRnZ6eWtTalF1Ry1XM2tHREduSm8zNTI3S0JSYlVYZGxNRUtTSTJtSVhMaGc2MmpRSk9UU0o1ZWgwaEdxT01Yem5YNWRsZFE?oc=5",
+            "title": "Wall Street clôture en nette baisse, la tech déraille",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2VTNF94bmNaYm1obEE5ckFhVk93UGx3ak5tcFR3QlB1YVg5S094VzFTNlc5akNrVzlNT3c4VFNsM08ybGQxQWRUMUdvakpCRXFfY0stbExnWmFtRkV6YjN6eWxiTXBZeV9CYWFOcW94cUYza2h2NTVucnV2alRISTNJZHFxOEpFZnBsYml5V2Roa1d0cUNz?oc=5",
             "source": "Yahoo Finance France",
-            "date": "30/10 à 21:26",
-            "date_iso": "2026-10-30T21:26:08",
-            "summary": "Bourses mondiales: retour des doutes sur l'IA, la tech déraille à Wall Street&nbsp;&nbsp;Yahoo Finance France"
+            "date": "30/10 à 20:47",
+            "date_iso": "2026-10-30T20:47:56",
+            "summary": "Wall Street clôture en nette baisse, la tech déraille&nbsp;&nbsp;Yahoo Finance France"
         },
         {
             "title": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté",
@@ -74,12 +74,12 @@
             "summary": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté&nbsp;&nbsp;economie.gouv.fr"
         },
         {
-            "title": "Wall Street clôture en nette baisse, la tech déraille",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2VTNF94bmNaYm1obEE5ckFhVk93UGx3ak5tcFR3QlB1YVg5S094VzFTNlc5akNrVzlNT3c4VFNsM08ybGQxQWRUMUdvakpCRXFfY0stbExnWmFtRkV6YjN6eWxiTXBZeV9CYWFOcW94cUYza2h2NTVucnV2alRISTNJZHFxOEpFZnBsYml5V2Roa1d0cUNz?oc=5",
+            "title": "Les actions asiatiques progressent grâce à la technologie avant les résultats d’Apple",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFctd3ppYlZLUnZEbzk0UkE2ZTg4cko3a1BPckt5SzlwU2F3SGJuOUlkS0FyeDFxTVYtSV91cUxoSV92NTBMZEFVV1Z5dEM2U1FOWmhDUE5NRkxYOWZ3eEpiNkhkQ1AzQnR3TGFHdE4wb3kwZnF2QkhqanRrMDlxTkFRNWtBQVcyYXAwTExSMHNBMG1XYWE4MmFjZzhxcDdZTXFZUmVB?oc=5",
             "source": "Yahoo Finance France",
-            "date": "30/10 à 20:47",
-            "date_iso": "2026-10-30T20:47:56",
-            "summary": "Wall Street clôture en nette baisse, la tech déraille&nbsp;&nbsp;Yahoo Finance France"
+            "date": "01/11 à 20:51",
+            "date_iso": "2026-11-01T20:51:00",
+            "summary": "Les actions asiatiques progressent grâce à la technologie avant les résultats d’Apple&nbsp;&nbsp;Yahoo Finance France"
         },
         {
             "title": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller",
@@ -114,12 +114,12 @@
             "summary": "Lancement de la Chaire de recherche du Canada en finance et technologie&nbsp;&nbsp;HEC Montréal"
         },
         {
-            "title": "L'Oréal Champion de la Beauty Tech",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWm5DeXBLdVl5cVcyV3VkQ21iT0dOMEpoMFJvX3I2NzJpRG1kdU9jVk8zbVAtRDd6djdfX0ZLdjUtaFROS2ZBWXZLdHBXWTRFUGxsakNmMEZva0pOQ1g0bV92NURlbG10Q0psX1hwakw2ZFNmU1RDRHhqNmx6dld1VFZRZEQ1VnJ5?oc=5",
-            "source": "L'Oréal Finance",
-            "date": "24/03 à 19:15",
-            "date_iso": "2025-03-24T19:15:17",
-            "summary": "L'Oréal Champion de la Beauty Tech&nbsp;&nbsp;L'Oréal Finance"
+            "title": "Grand prix 2026",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMV9zeGk4NnhYTzlYdVJBX1pUX0ptVGVHWkpaMGRyNkszUERmMlBqXzVhNVBmTi1vZTBlT0puZDlQYUw2Nl9KX0ZEZFRJcXNYR2Z2VVM0SzlueTJ5S0xuQm5ieGt5TUJjbzh1WWNTclhWNmZfYmxEWGh0cS1JdU0yVmNCdEFRT2lwQVkzbGdtVkRWbkEzV3dQZ29QMTNNVGtOd3FZ?oc=5",
+            "source": "La finance pour tous",
+            "date": "24/06 à 07:00",
+            "date_iso": "2026-06-24T07:00:00",
+            "summary": "Grand prix 2026&nbsp;&nbsp;La finance pour tous"
         }
     ]
 }
