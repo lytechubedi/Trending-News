@@ -1,14 +1,6 @@
 {
-    "last_updated": "06/11/2026 à 13:17",
+    "last_updated": "06/11/2026 à 22:27",
     "articles": [
-        {
-            "title": "Blue Owl Technology Finance Corp. Estimates – MUN:F4G",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EUkhOVHBsejAwakxXVzd2Y2lZa0ZwSUt5TG5taWl5TnNiVzFGd1V1UlN1eFF4cjlTdkk3U054WU5RTHZKVzRnemZEMUUwSnJyOHZPd2dKekR6WXdELU56dUdNdXc3SjlBSmphV056d0NnUQ?oc=5",
-            "source": "TradingView",
-            "date": "01/11 à 05:24",
-            "date_iso": "2026-11-01T05:24:32",
-            "summary": "Blue Owl Technology Finance Corp. Estimates – MUN:F4G&nbsp;&nbsp;TradingView"
-        },
         {
             "title": "Finance tokenisée : une nouvelle architecture pour les titres et la monnaie",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWxmdTJJeERjOEtEY09CTDJkUHV5T19xSHkycWJ0eWM5ZHlLdVNNVW8zYU5BX1ZpczJQdFV2NVhlZHBCa0tlUHR2MUN6UFJpX2JUNVlfS1FVWjFxUUlxQ0dCN0szTkI0OFdjTGxqNW14MVFTV1VDeFdBdWJCdUV4am9zbENhXzQ0YUZtYXhDYWwxWm1PZWl3ejRFSkRUbjJFbXJsRmU1VkZiZmlmQ2hFUXVackhoVVVzNHhILVVpVWhFV2tUR0N5M3RZZ0xIQQ?oc=5",
@@ -16,6 +8,14 @@
             "date": "04/11 à 08:47",
             "date_iso": "2026-11-04T08:47:09",
             "summary": "Finance tokenisée : une nouvelle architecture pour les titres et la monnaie&nbsp;&nbsp;Etudes Economiques – BNP Paribas"
+        },
+        {
+            "title": "Blue Owl Technology Finance Corp. Estimates – MUN:F4G",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EUkhOVHBsejAwakxXVzd2Y2lZa0ZwSUt5TG5taWl5TnNiVzFGd1V1UlN1eFF4cjlTdkk3U054WU5RTHZKVzRnemZEMUUwSnJyOHZPd2dKekR6WXdELU56dUdNdXc3SjlBSmphV056d0NnUQ?oc=5",
+            "source": "TradingView",
+            "date": "01/11 à 05:24",
+            "date_iso": "2026-11-01T05:24:32",
+            "summary": "Blue Owl Technology Finance Corp. Estimates – MUN:F4G&nbsp;&nbsp;TradingView"
         },
         {
             "title": "Le bénéfice de Blue Owl Technology Finance augmente malgré la baisse du revenu net de placement",
@@ -42,12 +42,12 @@
             "summary": "VIDÉO. Africa Financial Summit: la Tech à la rescousse des entreprises africaines&nbsp;&nbsp;tv5monde"
         },
         {
-            "title": "Wall Street ouvre sans direction claire, la tech retrouve de l'élan",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1pvdEo3UWV4WGF6aWJjV0x2YXlfU0ZTc1pTWXEzTDRGWTJ0SjdsaU1XaTBvRXBrLUczeHk3bzhZZlVPR3lIaUN3Y2tpUmY2N3BYa2lreENmUVRKcEd6MkJFQlZPZWhPdENQakhyT1FEb2RqU01BTUxWOGprRW5vX3FXMFgwd1ZvdTQtQ3ZUVjdkSWs?oc=5",
+            "title": "Wall Street clôture sans direction claire, entre rebond de la tech et \"midterms\"",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTF9GZmVEQVpmSjN1d2JiQzB3bTYwamZNWFlxSDJXZElacUlIbG5RWFctUGhUMUJQdVI2Y0YzUjg1VnlqMkZ3Rk9LWHM4dExmbFcza2p1cUpMSnd2VUNxbUY3d3pwaFR0NFZIb0dHS1Jvb3ZET2o1UE1RM0lEazhjY1J5M0FNdFRRRTZQSjJXakNQQ2o3SXRHeVRSaTU?oc=5",
             "source": "Yahoo Finance France",
-            "date": "03/11 à 15:42",
-            "date_iso": "2026-11-03T15:42:10",
-            "summary": "Wall Street ouvre sans direction claire, la tech retrouve de l'élan&nbsp;&nbsp;Yahoo Finance France"
+            "date": "03/11 à 21:27",
+            "date_iso": "2026-11-03T21:27:50",
+            "summary": "Wall Street clôture sans direction claire, entre rebond de la tech et \"midterms\"&nbsp;&nbsp;Yahoo Finance France"
         },
         {
             "title": "L’initiative Tibi : mobiliser l’épargne institutionnelle au service des entreprises technologiques",
@@ -74,36 +74,12 @@
             "summary": "La tech s'appuie sur l'AI. La finance protège les marges.&nbsp;&nbsp;Databricks"
         },
         {
-            "title": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdm9iUmN1aGdWYkl1NDdSVVU0Tm5XX0pzbWtBTDVGN19RT0FMZ0xTU3hyZDV2Smlyc3YySXpNTHY0ZzFXT0FZdk5zYjhNWlMzT2dZSTVqbmxHUVg1SWo4RzRiYTRVcVB6QmxCdXFXNmhkdnZUd0cxbXRld204VDluZVdoUndBaDBSd09uSGFiVzNSRV9QOUVubDA3NlNXZE1PZzhVZ3RBME9QR1d5R0FxMzg4d2NjYy1BR21kQ1gwR0s4Ylhya0RuR0JQekdQOUc3eHVDRVZwWQ?oc=5",
-            "source": "Finyear",
-            "date": "03/04 à 07:00",
-            "date_iso": "2026-04-03T07:00:00",
-            "summary": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller&nbsp;&nbsp;Finyear"
-        },
-        {
-            "title": "Wall Street clôture sans direction claire, entre rebond de la tech et \"midterms\"",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTF9GZmVEQVpmSjN1d2JiQzB3bTYwamZNWFlxSDJXZElacUlIbG5RWFctUGhUMUJQdVI2Y0YzUjg1VnlqMkZ3Rk9LWHM4dExmbFcza2p1cUpMSnd2VUNxbUY3d3pwaFR0NFZIb0dHS1Jvb3ZET2o1UE1RM0lEazhjY1J5M0FNdFRRRTZQSjJXakNQQ2o3SXRHeVRSaTU?oc=5",
-            "source": "Yahoo Finance France",
-            "date": "03/11 à 21:27",
-            "date_iso": "2026-11-03T21:27:50",
-            "summary": "Wall Street clôture sans direction claire, entre rebond de la tech et \"midterms\"&nbsp;&nbsp;Yahoo Finance France"
-        },
-        {
-            "title": "L’innovation au sein du groupe AFD : financer, accompagner, anticiper - AFD",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZNVFSQkh5bGxQaHFGMXNGWmRFUV83S0laaXh4cndCN1JZdTd0V1NCWENNd0VUejEyaHBqdlNXaTQ1MHVFRDdqaXRzZGpXTlJwZUFNaUpR?oc=5",
-            "source": "Agence Française de Développement",
-            "date": "26/01 à 19:32",
-            "date_iso": "2026-01-26T19:32:12",
-            "summary": "L’innovation au sein du groupe AFD : financer, accompagner, anticiper&nbsp;&nbsp;AFD - Agence Française de Développement"
-        },
-        {
-            "title": "Lancement de la Chaire de recherche du Canada en finance et technologie",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlhkd3E1YlBYUWJESVJuUWxFZ29nUDJBOUFRSWoxRGtjQ0oyY0l5STFKTXNEb0VYX3IwbVVOYTRSZjV4Y3BacWsxNDVRdmQ5TTNKM1NMWXVNamJqNExHaktqd1lfV1l2bTA2MURUUGNSZ3JhRnZXOUlhdllYbzFSLS1KbTY2WUItZ295em5CbDJpbGVZYm1BQlY3d255VTh4aTlaREFEUFA?oc=5",
-            "source": "HEC Montréal",
-            "date": "02/02 à 08:00",
-            "date_iso": "2026-02-02T08:00:00",
-            "summary": "Lancement de la Chaire de recherche du Canada en finance et technologie&nbsp;&nbsp;HEC Montréal"
+            "title": "Innovation : quels sont les aides et crédits d'impôt existants ?",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZzk1WGNSX09RaFZJWlVtN1hsb2hXXzBpR3JNbV9LUDNMT25XQlBYYjhSS2E5ekRqeVd2cnBXbGMwUFRZRlZIYm1vejlLTXZocHpwWUdxRy1OOUxuM1p5dUJENXdEX1prOHZBb2JFc19VTEJsY1hfU2pnOE5VbzA2RS1QSDZlZ2J3RHc2Qk9Pd3dkb2Y5a3lRY0I1R0ttc3RRZGJRT3h4R01LVkp0TWVPS3VUa2JPTTBhYzJ5M1RYQTFPeE5WaHhqcU1VQVl6aVFnRjF6R0dGTUtkZng4Nm12ejA2R2xrVF96RFQtTGthdkUyMWtD?oc=5",
+            "source": "economie.gouv.fr",
+            "date": "23/06 à 16:13",
+            "date_iso": "2026-06-23T16:13:09",
+            "summary": "Innovation : quels sont les aides et crédits d'impôt existants ?&nbsp;&nbsp;economie.gouv.fr"
         },
         {
             "title": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté",
@@ -114,12 +90,36 @@
             "summary": "L’initiative Tibi lance sa troisième phase avec 13 milliards d’euros supplémentaires mobilisés pour financer les technologies de souveraineté&nbsp;&nbsp;economie.gouv.fr"
         },
         {
-            "title": "La recherche en IA chez BNP Paribas : innover pour la finance de demain",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3l2Z1JkWnNKYzlFdUVqMXdubTYtYlhWZnhSRmV2a0YzUlVMNUR3d1Jma21VMHdsNnVUNElieU9YVmxYbnFsenp6bE5TX1ZfVV9QajFXYjV6eVBteEI0bS1XSFgtRzk1aE0zQk1Xd1VabUQ1cU1TZDlCRHNWNUpFQUZKUEExRXphWElkemY0QzNzQVRKZ3RJOVl1MWkyeWxlMGVaSDllRQ?oc=5",
-            "source": "Groupe BNP Paribas",
-            "date": "27/04 à 07:00",
-            "date_iso": "2026-04-27T07:00:00",
-            "summary": "La recherche en IA chez BNP Paribas : innover pour la finance de demain&nbsp;&nbsp;Groupe BNP Paribas"
+            "title": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdm9iUmN1aGdWYkl1NDdSVVU0Tm5XX0pzbWtBTDVGN19RT0FMZ0xTU3hyZDV2Smlyc3YySXpNTHY0ZzFXT0FZdk5zYjhNWlMzT2dZSTVqbmxHUVg1SWo4RzRiYTRVcVB6QmxCdXFXNmhkdnZUd0cxbXRld204VDluZVdoUndBaDBSd09uSGFiVzNSRV9QOUVubDA3NlNXZE1PZzhVZ3RBME9QR1d5R0FxMzg4d2NjYy1BR21kQ1gwR0s4Ylhya0RuR0JQekdQOUc3eHVDRVZwWQ?oc=5",
+            "source": "Finyear",
+            "date": "03/04 à 07:00",
+            "date_iso": "2026-04-03T07:00:00",
+            "summary": "Opinion | Antony Derbes, Open Lake Technology « Finance : le travail a déjà changé d’orbite. La régulation, elle, tarde à décoller&nbsp;&nbsp;Finyear"
+        },
+        {
+            "title": "L’innovation au sein du groupe AFD : financer, accompagner, anticiper - AFD",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZNVFSQkh5bGxQaHFGMXNGWmRFUV83S0laaXh4cndCN1JZdTd0V1NCWENNd0VUejEyaHBqdlNXaTQ1MHVFRDdqaXRzZGpXTlJwZUFNaUpR?oc=5",
+            "source": "Agence Française de Développement",
+            "date": "26/01 à 19:32",
+            "date_iso": "2026-01-26T19:32:12",
+            "summary": "L’innovation au sein du groupe AFD : financer, accompagner, anticiper&nbsp;&nbsp;AFD - Agence Française de Développement"
+        },
+        {
+            "title": "Appel à Projets « Financement des prototypes de technologies agricoles innovantes »",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXB2SWpESDA2Z2F5SnhhcnVGOGJtQUxwd1Jwblg1d2REQ1F0cW8xVzFFdGE1UWFpQXpUWHR6ZzRYandnQlpzaXRpT1YwYWUyY0FWci1LZ2tHeHZMNnB2MHBMWjRHNW5LRzhHeTg2c0VtdE9IeGVuZVZBVXZVczdIMHQzRGNSWEdLU0IwelQtWEZwWklCdWs2M3R2dHktdVUyMTh0dUJNNVlxREhMcVdMSWF5ZGFHX3psNndpNjlkcDdDdFhxLUQ5MlpYSHZvQkE?oc=5",
+            "source": "Bpifrance",
+            "date": "15/04 à 07:00",
+            "date_iso": "2025-04-15T07:00:00",
+            "summary": "Appel à Projets « Financement des prototypes de technologies agricoles innovantes »&nbsp;&nbsp;Bpifrance"
+        },
+        {
+            "title": "Lancement de la Chaire de recherche du Canada en finance et technologie",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlhkd3E1YlBYUWJESVJuUWxFZ29nUDJBOUFRSWoxRGtjQ0oyY0l5STFKTXNEb0VYX3IwbVVOYTRSZjV4Y3BacWsxNDVRdmQ5TTNKM1NMWXVNamJqNExHaktqd1lfV1l2bTA2MURUUGNSZ3JhRnZXOUlhdllYbzFSLS1KbTY2WUItZ295em5CbDJpbGVZYm1BQlY3d255VTh4aTlaREFEUFA?oc=5",
+            "source": "HEC Montréal",
+            "date": "02/02 à 08:00",
+            "date_iso": "2026-02-02T08:00:00",
+            "summary": "Lancement de la Chaire de recherche du Canada en finance et technologie&nbsp;&nbsp;HEC Montréal"
         }
     ]
 }
